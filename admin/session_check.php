@@ -1,0 +1,12 @@
+<?php
+session_start();
+if(!empty($_SESSION['users']))
+{
+	$user_id=$_SESSION['users'];
+}
+else
+{
+	header('location:logout.php');
+	die();
+}
+?>

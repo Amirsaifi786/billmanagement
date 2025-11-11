@@ -1,0 +1,926 @@
+[
+    {
+        "timestamp": "2025-02-10 06:39:06",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "520",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "520",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6lRsnlan5p7cBC5Uo7TxQAAAJg",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "17054",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1739149746.422252,
+                            "REQUEST_TIME": 1739149746
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hLeXuWwLK2Va01U7+RYDk05qcO99msyVxByWZ4taqFD8kk9Qmb7P8haw7SHKATyvZRdzqHEWkKFE04EqqyyQ33s2sQnfImudvYLU3dP0\/EseEva26XNP1NtsjeIfO3WSxf2o7EfDmH9ufWoSme9QsbhvIVf1ClnH9VObhtbfHwsPvyeFwQ+u9+mqksNEUm9VTecxcwEjVpyTKtAUq3xHRBmpNaJ59TPHQKD+NMKeHobs9xmpVhj8hb8BOQnPpS5ieIGugP1\/B4+7LqkQkPD20yC8ZRLBGx32K2IJXHZL6NHSMMy6ii1Sb5IOQYhOiRgmcZChOVbHe5uT43bu3dYVj5MiiNPY09AeMP3yC3pKzNxvXZH9vscmS5HV\/5tU9gGik316Cc4K\/w8Y06KCj3IGJFfBnoOqjI\/tglWYSSVvxUuh2+WdtlKpvb3yrc56XkxBGV3TkhIRJEc9",
+                        "authTag": "X0ckLSoQBxtAKYykduKq1A=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:39:06",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:41:39",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "524",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "524",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6lSS3lan5p7cBC5Uo7USgAAAIA",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "62516",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1739149899.1175,
+                            "REQUEST_TIME": 1739149899
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hLeXuWkPJjhd3gRrrR5Yk05gc+wkmsyUlBPHNYMH\/Qv8lRldmb7P8haw7SHKATyvYxdzqHEWkKFE04EqqyyQ33s2sQnfImudtLWx37LtnU0ODP\/G530Owt1rq9UcE1Tf3eW\/6UPGm39qe2AfneVDv7YgL1e0EkHQ91ealtjRSQ0csDqXwxiz8eiNv4VcSgNQQPdVNkcTWvnXJoo2+HtYbG2bLvAZ6mv7TbPwOo+DCIf7zDTvTgCQgLsqexeTlA58LIS7zZVXcK\/7PqNxybXAuS6yMhfYJjHgDE9PRG457Mj+YMm7jXxdOJcGE9AbhUt3eZP2NAvKLp\/Gvi26h9BC1IUshoXUxeojNPW1E2Jazt5oRYz\/odsnL\/XT85JZ\/QukgGZ\/BscJ7QEWha6UslUTMVbHz5uy\/Yn7glOOSVRhyxu22Mqw8Eqx1Y2YsPlCKGFyIhKkvh4bKDZi+g==",
+                        "authTag": "WZwt9ZmSQ0J\/weWv3dpRRg=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:41:39",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:43:05",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "536",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "536",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6lSoXlan5p7cBC5Uo7U5AAAAJE",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "6246",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1739149985.750639,
+                            "REQUEST_TIME": 1739149985
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hKabuG4HKzoL11o8rBYDxU5kdLgnyp2ckkCUN4gJ+1H6x09bmb7P8haw7SHKATyvZBdzqHEWkKFE04EqqyyQ33s2sQnfImudsb2m2qfnnUsaCf\/QgAcM8ulPnsktVzaSnKruqCGXzAE0a2MFkeRCqas3cAPlAErB4EyLyZmeSUNM5GPXkFnruvORl48NEUJqYt5tTRRiBOiqBvUooWRPXHyJObRb8H\/cTtCFT9i9EbXr9C+pQBjdvJQAeDHO1GUEBa2zxoxsI4OpLcNhy6zyhHzQfwjNCQHtEyQHRCFr1cjLarDnyyJHH656QNFP10skccSlOVDJLJvH43a\/24MT09BomJCR3+BGaaryHXoMhIAOGcyqscw0LZHR8IVd\/hymiBl\/BccO7hkKl\/Hc6TxUYACens3wsYnaoGS+aSV5xWqR\/u+8xzup29a5ge5keSIddmTU7AZDaBQG7ZAzrKx2ry0izA==",
+                        "authTag": "C9fa13SxomZtFp5TBf91eg=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:43:05",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:45:47",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "524",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "524",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6lTQyf7hm_-Q76w-pzRIwAAAHk",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "22350",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1739150147.265167,
+                            "REQUEST_TIME": 1739150147
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hKabuDhcf2xc0FoyqxdUwE43cOh8zcGUxUTBM4oPqFL7w0pemb7P8haw7SHKATyvZBdztm8Wgq9KkpcsrDeS12wKngXXZXOF0rexyqfnnU0ODP\/GjHMAg8ttrPMrEHz+kP2n\/kvCmXxrfW4UmOBErrguYFm0U1nI4FWel8jfR1saozWK0Rqk7O6MmKgaUhs8RfpFUkIyBqi+IuYT1Ex1Y3W2G\/IfzzHiM+SBNIHOFZH62w\/CCBiI7L4uRU+cum5RO5+axaVQLouyGrBC0bKzyU68PEDdPwzMGmhiAnYhnt3rSMzgiCgAaM4OFdBPg01wKMatNArHfcyW5SS83dNEg4A5iIuCyfwZCfG9VHpC3txqQpTio8Q7LpG39Z5X+ASti3RkA8gA7hMYi\/iYpGg0JEPGycqq5fj9lFOIX1QQxRXmz8mf3Qypzdb7jdBYR2p+E3Cg5h4VYC45pdg=",
+                        "authTag": "Mq6wLAS22gtaeUblYZW5lA=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:45:47",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:47:03",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "524",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "524",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6lTjyf7hm_-Q76w-pzRRQAAAE0",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "60529",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1739150223.19433,
+                            "REQUEST_TIME": 1739150223
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hLeXuTQLKDoLhwc\/+xYHw05lIO0nwMqZlBXGMt4M+FD8wU1Zmb7P8haw7SHKATyvZBdzqHEWkKFE04EqqyyQ33s2sQnfImudt7G6yqDunUcYCf\/GjHMAg8ttrPMrEHz+kP2n\/kbCnn5te2gVkONHqrguYFm0U1nI4FWel8jfR1saozWK0Rqk7O6MmKgaUhs8RfpFUkIlW\/iUPvsbyXt9TxW5TYRs5nPmPeGRNIHOFZH62w\/CCBiI7L4uRR\/+piYTGNG7n7ddBpa+FI5R3JH5lW28PEDdPwzMGmhiAnYhnsznScC3335XP5MDRdEcgE0ieMP2OQHKLJ2R5HC\/jdFDgYc+iIuCyfwZCfG9VHpC3txqQpTio8Q7LpG39Z5X+AatiH9kA8gA7hMYi\/iYpGg0JEPGycqq5fj9lFOIX1QQxRXmz8mf3QypzdaAncJfcThdERWi7RAyXDN1pdg=",
+                        "authTag": "BaOl32uCnC09dTFZ9DCUCA=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:47:03",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:48:14",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "516",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "516",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6lT1Sf7hm_-Q76w-pzRfAAAAEM",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "39243",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1739150294.198528,
+                            "REQUEST_TIME": 1739150294
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hL6BuGtaemQJ11c6q0wCwk5jKe8knMCZwhGQNNkP+1avzx5Qmb7P8haw7SHKATyvZRdzqHEWkKFE04EqqyyQ33s2sQnfImudtJGa5oDOnyp5IsvnsQNJx+Z3\/b1bRC2Dzuev7kDAnXdua3UFxbURv6AgdwPkAlne4BTbxZSOChoauDuK6x\/loqWtvacoQkImSoBHNRMXabKUP8Impk5tW2uPHYgKqyTkC+a3ZOSIWNm88DbEHnbKqr02bQ3pww1nA464uvV0FqqJDNkPhLLxmFjmfivMbV+6O0RnADF\/hKyCMcm1i3tVascOEIgeiE13fZfxYgPPfZyb4i2vk5BVzt9aw8rFn75Vb6jiBHVIzsNrQPX\/pcwiJ5vT94Nd+QukiG9jEYlCs3BOxq6ZryRdcnHn\/\/rNjImM7TK5f2EKgxv+n8Kt4C79u5n6gb1mVERgJVK1og==",
+                        "authTag": "\/ZU9v0qWbsQuZS1PaXWO4Q=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:48:14",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:51:08",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "528",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "528",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6lUhHlan5p7cBC5Uo7WqAAAAIc",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "56647",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1739150468.342774,
+                            "REQUEST_TIME": 1739150468
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hLeXuWsILW5ch1Q9\/BxQwE42J+R8mpjJkEaUZoMN8laowRpdmb7P8haw7SHKATyvYxdzqHEWkKFE04EqqyyQ33s2sQnfImudt7i73LuG+EgPBOzElxh\/5Io0\/eQMBm7imrnTs1HIiHprfWgUmONHrqg1dBb7EhaRoUKThs\/KWEtM\/XaQ0Bqp6+aAgogRHmh6KYshSjsGaPiWed0RoFddPEb0CqlOtGX8OvCKT5WOWM+80Q\/vCUj7qtJfKDbhuTBHHIeYxqEvEq+EHZVo\/pHKiUjVXiiKY0ftEm9\/HjpS2L6JJqnXpH5SbcRTQt9N0Eske8bwNwrHeszGt3fsiIsSjtQ4ncaUn6hVKeC+ZTEVmcxgUpP\/ocM7L5PO9Jg5\/AetjXx1A8oR7RYAlOrO8CQTKEzhyNj8qqmM+zKYT0QAomqXn4Db5g3tvpDp3qp9fFBDAxOluTQgdwcVxNcmw6Y=",
+                        "authTag": "kDNhdFEoUY6S98zYdhR1mg=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:51:08",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:52:18",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "512",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "512",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6lUynlan5p7cBC5Uo7WyAAAAKo",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "50517",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1739150538.6784,
+                            "REQUEST_TIME": 1739150538
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hKabuDkIf2la0FJpqB5YkU5nKOt9z52ckkeQaN4GqVCtwhkMmb7P8haw7SHKATyvZBdzqHEWkKFE04EqqyyQ33s2sQnfImudprm+zqqEkSQ4NM3glzRK78c65aVLRS+Dzumq6UXKmnZ5ZXtKy7VQp7g3dQflElfQthLIyomcCA0Hvjqtxln9usmosLdMFBAmW4JmXB45WaORCMsM0GRrWRj0KOEEpWn5HeegX8nOQMHQ9TLtJFDGv75TfCjrrg9zKKqYufB1FdqsWdcB07fopXTwWQaKdUfZOkofUTUu36qDZ8yz0HtRa88BG94egEt3LMvwOVGdK5nA4jahncZZ2OVnx8KCh6ZFbarlHGhK0d9qJJH5qcMkJZDR7phY9gKnmmFtR4VUjldb06+f\/jxFA3fx\/\/zbjPiC42KufE4nxQPmzuLI8z66pLCTq91AVzNPGgXq",
+                        "authTag": "8ExH5ljJ7y2vsTS5PLU6cQ=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:52:18",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:52:45",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "540",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "540",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6lU5Xlan5p7cBC5Uo7W0gAAAKU",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "49262",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1739150565.354692,
+                            "REQUEST_TIME": 1739150565
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hL6BuG4MfD1d0wQzpRgFwE5jJ+8kwZzPlBTMZ9lY\/1KrlEJbmb7P8haw7SHKATyvZBdztm8Wgq9KkpcsrDeS12wKngXXZXOF0qO7x7Lo8UcXYfDVkBxl7elU\/9U4IVL\/u\/2x\/hCH2TsJLD9px\/RIv6M1cgzjBk\/B8lmandjRSRQNsnbegE7wq7XB2sMKAkBweNBgcBkvUIOAb4lc3UZqXh6pEPV77EraKs6ad9rYTJqn2hfdXgLz7NxHZQrOky1vL8TG1opXDpX\/Q8NBwoC3o3WtViDvFQDBCUxZExo5kL7GdJDXkXYsOtQMAbA4\/RomK5PwNFTHIJvGtSC8iYFAj9RsnpaZi+cRaPnlU2FK3sJ4BNmhx597eoPZ55pd\/gS6iH9iAs1u7RUAkujW6DZMYBeIj4mq8\/jauX6YbmY3kkrmh46qwSvIsqeYxqQPb2VBHUO15V0HJw51wZ0Hp7F\/mBRH6TnJ3u0=",
+                        "authTag": "E4VWT9u6f1RUtWaGtKWjAA=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:52:45",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:53:48",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "544",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "544",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6lVJCf7hm_-Q76w-pzR9QAAAHM",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "21855",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1739150628.069715,
+                            "REQUEST_TIME": 1739150628
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hLeXuTVdLjlc31psqBpWk04wc+t8z86akR2WaY4HqFX8xkhemb7P8haw7SHKATyvZRdzqHEWkKFE04EqqyyQ33s2sQnfImudoLGmwrL0nUwaGPvHjRp57OlK\/8o2PVv+s57R\/l\/QyTooPQtCzpgdv6AgdwTjAUjC91WancnMSVVMvDeHgEHlrbDQxMNSUlVsat9wZRM0V6WKBNdcqS9iQ2qaSqFd1FL7F\/ifJPykG4Gs8CzOPXnwtIpHJlrFhDtDOa+Y1v4+D6mHD81v8aHDx0avYAz9OybtMmBdMBxVyL6fJozzgEwdML9SAdNY4S1YcZCkZFfHIMuXsyPsi9BDgYg5nZCRhedPaaGyVzpIz9l4XIO765hCdsyG55JP\/gGljWB\/AdAL7XcKkeDZ7zxTZwmCiYO77\/iC42SzdFQ3hk2xzo7DtjvetLeOt9sPMSJVMUHeu11JMzUa\/8o3t7lJmghJ43bUldWrcg==",
+                        "authTag": "z7YLXF6BJutKqgg73\/7gVQ=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:53:48",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:57:12",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "536",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "536",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6lV8Hlan5p7cBC5Uo7XbwAAAKk",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "47989",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1739150832.991643,
+                            "REQUEST_TIME": 1739150832
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hL6BuD4LKD4J11Q9rBkHyk43cr0nmciYlRbNZt8NqVGrwh1Rmb7P8haw7SHKATyvZBdzqHEWkKFE04EqqyyQ33s2sQnfImudvYLUxLL0\/Eh7E\/\/ehANt7IhBnss0NEiS0\/3+qQCG+Co9BzYFkvRLrKk6dgfkCEzH8ViLiNiQCBpM63bRlUj1uqvBgpMfHlJ\/aMVqax4JWujeb\/011Vsea3b6FoJj4VW6NcyYfsKoMbPk0Tz\/ARie7J8Xbh3YvzsEccSyv4txdqymHIoXwp37q2bUIynKeiPIL29dRHg5yezaUIHtoHxHZNRvYaVJhU93ecOiNgPJfpWW4nfs3dMQg4Q9kpDFjucVaKy2CXpU3poiHvWm\/pM0JYPR9ZpY4QGllXx\/Z80M5xYNnerb9zZSahGCnpWqq6LAkmSqbnIwxQPm7vm61y3YpNbnxvpIe0lDdh21ukoyIxM4\/dUxpLxRsih12W3j",
+                        "authTag": "eZHLXrympOSvNXhx\/Zas0w=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:57:13",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:59:20",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "524",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "524",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6lWcHlan5p7cBC5Uo7XrwAAAIE",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "30906",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1739150960.829137,
+                            "REQUEST_TIME": 1739150960
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hLeXuTVbLTgNglY4rBgFkE5gIOp8zZvOwhzDNNldqwaqx0lQmb7P8haw7SHKATyvYxdzqHEWkKFE04EqqyyQ33s2sQnfImudtLWx37LtnU0ODP\/G530Owt1rq9UcE1Tf3eW\/6UPGm39qemoVne9Hv7YgL1e0EkHQ91ealtjRSQ0csDqXwxiz8eiNv4VcSgNQQPdVNgAOTaCPC\/U93khWMHuiGvt97zTOHuTwOo+DCIf7zDTvTgCQgLsqbBDwpStXLrzElf1MKYG+TItSnr7Moy6yMhfYJjHgDE9PRG457Mj+PJ2wjSwBasQHFY0YhUskf8uhY1GcIZvH5HfsioYQhIgshoXUxeojNPW1E2Jazt5oRYz\/odsnL\/XT85JY9QuliGZ\/BscJ7QEWha6UslUTMVbHz5uy\/Yn7glOOSVRhyxu22Mqw8Eqx1Yyv1ttVWVd2MHLxuikRZDxi+g==",
+                        "authTag": "wxOGN1BKKAWbs1qQida0dg=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-10 06:59:21",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    }
+]

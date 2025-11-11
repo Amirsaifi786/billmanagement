@@ -1,0 +1,831 @@
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505091202432598\",\"custRefNum\":\"627198739\",\"bankRefId\":\"512917042324\",\"txnRcvdTimeStamp\":\"09-05-2025_17:32:43_043\",\"txnUpdTimeStamp\":\"09-05-2025_17:32:43_043\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"50_00\",\"beneName\":\"Ashish_Masih\",\"beneIFSC\":\"BARB0SANJAI\",\"beneAcctNum\":\"31800100014197\",\"returnBeneName\":\"Ashish_Masih\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3016\",\"payReqDesc\":\"There is a High memo on the account. Transactions not allowed\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+[]
+[]
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230641152214\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333535398\",\"txnRcvdTimeStamp\":\"23-05-2025_12:11:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:11:31_031\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"Meenakshi_Bhatt\",\"beneIFSC\":\"CNRB0005909\",\"beneAcctNum\":\"110214233080\",\"returnBeneName\":\"MEENAKSHI__BHATT\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230641152232\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333535397\",\"txnRcvdTimeStamp\":\"23-05-2025_12:11:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:11:39_039\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Rakesh_Sahebran_Lokhande\",\"beneIFSC\":\"SBIN0000537\",\"beneAcctNum\":\"41497688131\",\"returnBeneName\":\"Mr__Rakesh_Sahebrao_Lokhande\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230641152709\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333535395\",\"txnRcvdTimeStamp\":\"23-05-2025_12:11:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:11:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Binod_kumar_Ankura\",\"beneIFSC\":\"BARB0GUSKAR\",\"beneAcctNum\":\"38678100035285\",\"returnBeneName\":\"BINOD_KUMAR_ANKURA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230642155016\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333536060\",\"txnRcvdTimeStamp\":\"23-05-2025_12:12:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:12:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"rajnarayan_Upadhyay\",\"beneIFSC\":\"BARB0FULPAD\",\"beneAcctNum\":\"07318100000656\",\"returnBeneName\":\"Rajnarayan_Upadhyay\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230642151764\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333536061\",\"txnRcvdTimeStamp\":\"23-05-2025_12:12:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:12:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Mukeshbhai_bhurabhai_tadvi\",\"beneIFSC\":\"BARB0SAVLIX\",\"beneAcctNum\":\"02168100007575\",\"returnBeneName\":\"Mukeshbhai_Tadvi\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230643151778\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333536716\",\"txnRcvdTimeStamp\":\"23-05-2025_12:13:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:13:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"JAY_PRAKASH_SAH\",\"beneIFSC\":\"FINO0001001\",\"beneAcctNum\":\"20161453627\",\"returnBeneName\":\"Jay_Prakash_Sah\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230644156866\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333537337\",\"txnRcvdTimeStamp\":\"23-05-2025_12:14:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:14:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"35000_00\",\"beneName\":\"Kamal_Jeengar\",\"beneIFSC\":\"SBIN0031602\",\"beneAcctNum\":\"38133941504\",\"returnBeneName\":\"Mr__KAMAL___\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230645154666\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333537962\",\"txnRcvdTimeStamp\":\"23-05-2025_12:15:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:15:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"balkishan\",\"beneIFSC\":\"CNRB0000195\",\"beneAcctNum\":\"0195101066771\",\"returnBeneName\":\"BALKISHAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230645152960\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333537965\",\"txnRcvdTimeStamp\":\"23-05-2025_12:15:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:15:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Saran_chauhan\",\"beneIFSC\":\"CNRB0000195\",\"beneAcctNum\":\"0195101065264\",\"returnBeneName\":\"SARAN_CHAUHAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230645151838\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333537961\",\"txnRcvdTimeStamp\":\"23-05-2025_12:15:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:15:37_037\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Shabana_Begum\",\"beneIFSC\":\"IPOS0000001\",\"beneAcctNum\":\"023710223591\",\"returnBeneName\":\"SHABANA_BEGUM\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230646157057\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333538582\",\"txnRcvdTimeStamp\":\"23-05-2025_12:16:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:16:25_025\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"solanki_amit\",\"beneIFSC\":\"IDIB000N507\",\"beneAcctNum\":\"50144371901\",\"returnBeneName\":\"Solanki_Amitbhai_Jitendrak\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230647153914\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333539358\",\"txnRcvdTimeStamp\":\"23-05-2025_12:17:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:17:47_047\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"5000_00\",\"beneName\":\"abiulmiya\",\"beneIFSC\":\"PUNB0200320\",\"beneAcctNum\":\"2003201700033641\",\"returnBeneName\":\"ABIUL_MIYA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230647157763\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333539360\",\"txnRcvdTimeStamp\":\"23-05-2025_12:17:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:17:49_049\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"SHIBANI_KUMARI\",\"beneIFSC\":\"PUNB0139720\",\"beneAcctNum\":\"1397010214605\",\"returnBeneName\":\"SHIBANI_KUMARI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230648155393\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333540111\",\"txnRcvdTimeStamp\":\"23-05-2025_12:18:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:18:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"salman_khan\",\"beneIFSC\":\"UJVN0001114\",\"beneAcctNum\":\"1114110010056615\",\"returnBeneName\":\"SALMAN__KHAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230648155625\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333540110\",\"txnRcvdTimeStamp\":\"23-05-2025_12:18:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:18:24_024\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"A2A\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Rajesh_Kumar_saket\",\"beneIFSC\":\"YESB0000746\",\"beneAcctNum\":\"074699500418324\",\"returnBeneName\":\"RAJESH_KUMAR_SAKET\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230649151181\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333540774\",\"txnRcvdTimeStamp\":\"23-05-2025_12:19:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:19:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Meena_Devi\",\"beneIFSC\":\"SBIN0050119\",\"beneAcctNum\":\"35288506698\",\"returnBeneName\":\"Miss__MEENA__DEVI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230650157078\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333541459\",\"txnRcvdTimeStamp\":\"23-05-2025_12:20:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:20:26_026\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Imran\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"9457776174\",\"returnBeneName\":\"Sain_\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230650158228\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333541460\",\"txnRcvdTimeStamp\":\"23-05-2025_12:20:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:20:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1934_00\",\"beneName\":\"ARSADKHAN\",\"beneIFSC\":\"PUNB0981800\",\"beneAcctNum\":\"17052122004493\",\"returnBeneName\":\"ARSAD_KHAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230650152935\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333541462\",\"txnRcvdTimeStamp\":\"23-05-2025_12:20:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:20:41_041\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1934_00\",\"beneName\":\"ARSADKHAN\",\"beneIFSC\":\"PUNB0981800\",\"beneAcctNum\":\"17052122004493\",\"returnBeneName\":\"ARSAD_KHAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230650155800\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333541463\",\"txnRcvdTimeStamp\":\"23-05-2025_12:20:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:20:46_046\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Raj_kumar\",\"beneIFSC\":\"JAKA0NUDSAM\",\"beneAcctNum\":\"1020040100000323\",\"returnBeneName\":\"RAJ_KUMAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230650152493\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333541458\",\"txnRcvdTimeStamp\":\"23-05-2025_12:20:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:20:50_050\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"IMAMUDDIN\",\"beneIFSC\":\"PUNB0538200\",\"beneAcctNum\":\"5382000100062102\",\"returnBeneName\":\"IMAMUDDIN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230651157718\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333542165\",\"txnRcvdTimeStamp\":\"23-05-2025_12:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:21:24_024\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"Toshif_ahmad\",\"beneIFSC\":\"KKBK0004602\",\"beneAcctNum\":\"5148251864\",\"returnBeneName\":\"Toshif_Ahmad\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230651158845\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333542164\",\"txnRcvdTimeStamp\":\"23-05-2025_12:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:21:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"GAURAV_KSHIRSAGAR\",\"beneIFSC\":\"IBKL0000026\",\"beneAcctNum\":\"0026104000278188\",\"returnBeneName\":\"GAURAV_PRABHAKAR_KSHIRSAGAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230651158866\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333542167\",\"txnRcvdTimeStamp\":\"23-05-2025_12:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:21:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"gulsher\",\"beneIFSC\":\"BKID0007027\",\"beneAcctNum\":\"702710110002748\",\"returnBeneName\":\"GULSHER_SO_ALI_SHER\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230651158358\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333542166\",\"txnRcvdTimeStamp\":\"23-05-2025_12:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:21:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Sekendar_Sk\",\"beneIFSC\":\"BDBL0001279\",\"beneAcctNum\":\"20200088227060\",\"returnBeneName\":\"SEKENDAR_SK\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230651152882\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333542162\",\"txnRcvdTimeStamp\":\"23-05-2025_12:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:21:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"nikhil_yogesh_yadav\",\"beneIFSC\":\"SBIN0001886\",\"beneAcctNum\":\"41777533382\",\"returnBeneName\":\"Mr__Nikhil_Yogesh_Yadav\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230652163480\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333542833\",\"txnRcvdTimeStamp\":\"23-05-2025_12:22:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:22:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"gulsher\",\"beneIFSC\":\"BKID0007027\",\"beneAcctNum\":\"702710110002748\",\"returnBeneName\":\"GULSHER_SO_ALI_SHER\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230652166282\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333542829\",\"txnRcvdTimeStamp\":\"23-05-2025_12:22:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:22:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"GOURAV\",\"beneIFSC\":\"IPOS0000001\",\"beneAcctNum\":\"056010148577\",\"returnBeneName\":\"GOURAV\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230652168886\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333542830\",\"txnRcvdTimeStamp\":\"23-05-2025_12:22:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:22:37_037\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Sarbjeet_Singh\",\"beneIFSC\":\"SBIN0001546\",\"beneAcctNum\":\"38390029001\",\"returnBeneName\":\"Mr__SARBJEET__SINGH\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230652167106\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333542828\",\"txnRcvdTimeStamp\":\"23-05-2025_12:22:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:22:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"kader_dalal\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"8609485679\",\"returnBeneName\":\"Kader_Dalal\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230653156816\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333543536\",\"txnRcvdTimeStamp\":\"23-05-2025_12:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:23:26_026\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Bhumaji_Andaji_Gohil\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"9016558015\",\"returnBeneName\":\"Gohil_Bhomaji_Anadaji\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230653155064\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333543537\",\"txnRcvdTimeStamp\":\"23-05-2025_12:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:23:25_025\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"5000_00\",\"beneName\":\"savita\",\"beneIFSC\":\"PUNB0HGB001\",\"beneAcctNum\":\"78191900021916\",\"returnBeneName\":\"SAVITA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230653158272\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333543538\",\"txnRcvdTimeStamp\":\"23-05-2025_12:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:23:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Ms_KIRANBEN_BALUBHAI_MORI\",\"beneIFSC\":\"SBIN0060285\",\"beneAcctNum\":\"33869985621\",\"returnBeneName\":\"Mrs__KIRANBEN_BALUBHAI_MORI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230653154379\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333543535\",\"txnRcvdTimeStamp\":\"23-05-2025_12:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:23:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"mohammad_maksud\",\"beneIFSC\":\"UTIB0004426\",\"beneAcctNum\":\"923010004462254\",\"returnBeneName\":\"MOHAMMAD_MAKSUD_ALAM\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230654153856\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333544159\",\"txnRcvdTimeStamp\":\"23-05-2025_12:24:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:24:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"5000_00\",\"beneName\":\"amraram_khetaram_Bhati\",\"beneIFSC\":\"RMGB0000117\",\"beneAcctNum\":\"83078721979\",\"returnBeneName\":\"AMARARAM_BHATI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230654154350\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333544160\",\"txnRcvdTimeStamp\":\"23-05-2025_12:24:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:24:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"T_Venkatesh\",\"beneIFSC\":\"SBIN0007081\",\"beneAcctNum\":\"62485884531\",\"returnBeneName\":\"Mr__T_VENKATESH___\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230657153435\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333546341\",\"txnRcvdTimeStamp\":\"23-05-2025_12:27:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:27:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"sharvan\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"9352170341\",\"returnBeneName\":\"Shrawan_Dahiya\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230657152109\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333546345\",\"txnRcvdTimeStamp\":\"23-05-2025_12:27:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:27:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"rajini\",\"beneIFSC\":\"SBIN0005653\",\"beneAcctNum\":\"34191922354\",\"returnBeneName\":\"Mrs__SHAIK__RAZIYA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230657153681\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333546356\",\"txnRcvdTimeStamp\":\"23-05-2025_12:27:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:27:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"harish\",\"beneIFSC\":\"UTIB0003349\",\"beneAcctNum\":\"922010065929669\",\"returnBeneName\":\"HARISH\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230658159869\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333547154\",\"txnRcvdTimeStamp\":\"23-05-2025_12:28:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:28:38_038\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"964_00\",\"beneName\":\"vivek_kumar_ray\",\"beneIFSC\":\"IPOS0000001\",\"beneAcctNum\":\"008410351419\",\"returnBeneName\":\"VIVEK_KUMAR_RAY\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230700158087\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333548483\",\"txnRcvdTimeStamp\":\"23-05-2025_12:30:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:30:31_031\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"shahroon\",\"beneIFSC\":\"BARB0MANSOO\",\"beneAcctNum\":\"53628100001166\",\"returnBeneName\":\"Sharoon\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230700157768\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333548485\",\"txnRcvdTimeStamp\":\"23-05-2025_12:30:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:30:41_041\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"malamsingh\",\"beneIFSC\":\"MAHB0002501\",\"beneAcctNum\":\"60486096778\",\"returnBeneName\":\"Mr_MALAM__SINGH\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230701156209\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333549117\",\"txnRcvdTimeStamp\":\"23-05-2025_12:31:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:31:26_026\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"9694_00\",\"beneName\":\"MESILIRANI\",\"beneIFSC\":\"FSFB0000001\",\"beneAcctNum\":\"23100007375830\",\"returnBeneName\":\"MESILIRANI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230701151725\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333549115\",\"txnRcvdTimeStamp\":\"23-05-2025_12:31:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:31:26_026\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"dharavth\",\"beneIFSC\":\"IPOS0000001\",\"beneAcctNum\":\"051610230741\",\"returnBeneName\":\"DHARAVATH_MAHESH\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230702156981\",\"custRefNum\":\"627198739\",\"bankRefId\":\"\",\"txnRcvdTimeStamp\":\"23-05-2025_12:32:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:32:15_015\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"korra_bonjubabu\",\"beneIFSC\":\"VIJB0004054\",\"beneAcctNum\":\"82700100006269\",\"returnBeneName\":\"korra_bonjubabu\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3005\",\"payReqDesc\":\"IMPS is not enabled for the beneficiary IFSC\",\"actionCode\":\"AC_INVALID_DATA\",\"actionDesc\":\"Invalid\/Incorrect data in message. Update and retry\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230702152779\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333549743\",\"txnRcvdTimeStamp\":\"23-05-2025_12:32:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:32:31_031\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"Datniya_shaileshbhai\",\"beneIFSC\":\"SBIN0003043\",\"beneAcctNum\":\"42185578089\",\"returnBeneName\":\"Mr__Datniya__Shaileshbhai\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230702155990\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333549742\",\"txnRcvdTimeStamp\":\"23-05-2025_12:32:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:32:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"RAJKUMAR\",\"beneIFSC\":\"SBIN0071143\",\"beneAcctNum\":\"39373776558\",\"returnBeneName\":\"Mr__RAJKUMAR__R\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230702158858\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333549744\",\"txnRcvdTimeStamp\":\"23-05-2025_12:32:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:32:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"RAJKUMAR\",\"beneIFSC\":\"SBIN0071143\",\"beneAcctNum\":\"39373776558\",\"returnBeneName\":\"Mr__RAJKUMAR__R\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230702152369\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333549741\",\"txnRcvdTimeStamp\":\"23-05-2025_12:32:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:32:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Amardev_Malik\",\"beneIFSC\":\"UCBA0001777\",\"beneAcctNum\":\"17773211138785\",\"returnBeneName\":\"AMARDEV_MALIK\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230703158852\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333550419\",\"txnRcvdTimeStamp\":\"23-05-2025_12:33:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:33:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"badre_alam\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"7490044582\",\"returnBeneName\":\"Badre_Alam\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230703159694\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333550420\",\"txnRcvdTimeStamp\":\"23-05-2025_12:33:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:33:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"gourav_Sharma\",\"beneIFSC\":\"KKBK0004004\",\"beneAcctNum\":\"7045410184\",\"returnBeneName\":\"GOURAV_SHARMA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230703157822\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333550422\",\"txnRcvdTimeStamp\":\"23-05-2025_12:33:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:33:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"SK_SANOAR\",\"beneIFSC\":\"IDIB000A642\",\"beneAcctNum\":\"7749168383\",\"returnBeneName\":\"Sk_Sanoar\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230707159521\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333553169\",\"txnRcvdTimeStamp\":\"23-05-2025_12:37:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:37:26_026\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"DIGANTA_SAIKIA\",\"beneIFSC\":\"BDBL0001383\",\"beneAcctNum\":\"50220022911854\",\"returnBeneName\":\"DIGANTA_SAIKIA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230707155580\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333553167\",\"txnRcvdTimeStamp\":\"23-05-2025_12:37:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:37:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"RAKIB_ALI\",\"beneIFSC\":\"NSPB0000002\",\"beneAcctNum\":\"501023697374\",\"returnBeneName\":\"RAKIB_ALI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230708152214\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333553822\",\"txnRcvdTimeStamp\":\"23-05-2025_12:38:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:38:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"SARVAIYA_MAHENDRA\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"9081606260\",\"returnBeneName\":\"Saravaiya_Mahendr\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230710163612\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333555336\",\"txnRcvdTimeStamp\":\"23-05-2025_12:40:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:40:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Milan_Maity\",\"beneIFSC\":\"PUNB0167120\",\"beneAcctNum\":\"1671010083261\",\"returnBeneName\":\"MILAN_MAITY\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230711151949\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333555979\",\"txnRcvdTimeStamp\":\"23-05-2025_12:41:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:41:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"964_00\",\"beneName\":\"MOHD_ARBAZ_ISHTIYAQ_QURESHI\",\"beneIFSC\":\"KKBK0001347\",\"beneAcctNum\":\"7745288434\",\"returnBeneName\":\"MOHD_ARBAZ_ISHTIYAQ_QURESHI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230712152494\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333556545\",\"txnRcvdTimeStamp\":\"23-05-2025_12:42:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:42:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"suhana_khatoon\",\"beneIFSC\":\"IDIB000A080\",\"beneAcctNum\":\"6449800118\",\"returnBeneName\":\"SUHANA__KHATOON\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230713154901\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333557146\",\"txnRcvdTimeStamp\":\"23-05-2025_12:43:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:43:31_031\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Murugesan\",\"beneIFSC\":\"SBIN0005630\",\"beneAcctNum\":\"20254058349\",\"returnBeneName\":\"Mr__MURUGESAN__P\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230713158241\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333557145\",\"txnRcvdTimeStamp\":\"23-05-2025_12:43:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:43:41_041\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Buddhiswar_mondal\",\"beneIFSC\":\"BARB0VJRAJA\",\"beneAcctNum\":\"77870100006451\",\"returnBeneName\":\"BUDDHISWAR_MONDAL\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230716158910\",\"custRefNum\":\"627198739\",\"bankRefId\":\"\",\"txnRcvdTimeStamp\":\"23-05-2025_12:46:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:46:16_016\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"kallaram\",\"beneIFSC\":\"SBBJ0010069\",\"beneAcctNum\":\"61291121074\",\"returnBeneName\":\"kallaram\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3005\",\"payReqDesc\":\"IMPS is not enabled for the beneficiary IFSC\",\"actionCode\":\"AC_INVALID_DATA\",\"actionDesc\":\"Invalid\/Incorrect data in message. Update and retry\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230716156657\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333559034\",\"txnRcvdTimeStamp\":\"23-05-2025_12:46:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:46:40_040\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Gulshan_Kumar\",\"beneIFSC\":\"IPOS0000001\",\"beneAcctNum\":\"058510059869\",\"returnBeneName\":\"GULSHAN_KUMAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230716151888\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333559033\",\"txnRcvdTimeStamp\":\"23-05-2025_12:46:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:46:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"umar\",\"beneIFSC\":\"JAKA0RANGRE\",\"beneAcctNum\":\"0239040100005852\",\"returnBeneName\":\"UMAR_AHMAD_SOFI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230716158969\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333559031\",\"txnRcvdTimeStamp\":\"23-05-2025_12:46:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:46:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Rakesh_debbarma\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"9856577026\",\"returnBeneName\":\"Rakesh_Debbarma\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230717155272\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333559704\",\"txnRcvdTimeStamp\":\"23-05-2025_12:47:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:47:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"NUR_ISLAM_CHOUDHURY\",\"beneIFSC\":\"PUNB0131020\",\"beneAcctNum\":\"1310201700060609\",\"returnBeneName\":\"NUR_ISLAM_CHOUDHURY\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230717154642\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333559703\",\"txnRcvdTimeStamp\":\"23-05-2025_12:47:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:47:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"premananda_Malik\",\"beneIFSC\":\"NSPB0000002\",\"beneAcctNum\":\"501032152050\",\"returnBeneName\":\"Premananda_Malik\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230718156350\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333560284\",\"txnRcvdTimeStamp\":\"23-05-2025_12:48:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:48:27_027\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"sonai_shil\",\"beneIFSC\":\"SBIN0018602\",\"beneAcctNum\":\"43747720135\",\"returnBeneName\":\"Mr__Sonai__Shil\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230719157079\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333560974\",\"txnRcvdTimeStamp\":\"23-05-2025_12:49:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:49:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"Shubham_Gautam\",\"beneIFSC\":\"IPOS0000DOP\",\"beneAcctNum\":\"058010130308\",\"returnBeneName\":\"Shubham_Gautam\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP8011\",\"payReqSubCode\":\"npci:MJ\",\"payReqDesc\":\"INVALID BENEFICIARY IFSC CODE OR NBIN\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230720159384\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333561678\",\"txnRcvdTimeStamp\":\"23-05-2025_12:50:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:50:37_037\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1934_00\",\"beneName\":\"Ranjit_chakma\",\"beneIFSC\":\"PUNB0RRBTGB\",\"beneAcctNum\":\"8077012412148\",\"returnBeneName\":\"RANJIT_CHAKMA_CO_TAPAN_CHAKMA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230721158656\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333562384\",\"txnRcvdTimeStamp\":\"23-05-2025_12:51:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:51:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"SK_BAPAN\",\"beneIFSC\":\"BKID0004287\",\"beneAcctNum\":\"428718210001456\",\"returnBeneName\":\"SK_BAPAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230721155259\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333562383\",\"txnRcvdTimeStamp\":\"23-05-2025_12:51:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:51:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"CHANDRA_SEKHAR_RAVULA\",\"beneIFSC\":\"SBIN0007457\",\"beneAcctNum\":\"31291074558\",\"returnBeneName\":\"Mr__Ravula__Chandrasekhar\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230721155166\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333562385\",\"txnRcvdTimeStamp\":\"23-05-2025_12:51:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:51:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Rakesh_Sahebran_Lokhande\",\"beneIFSC\":\"SBIN0000537\",\"beneAcctNum\":\"41497688131\",\"returnBeneName\":\"Mr__Rakesh_Sahebrao_Lokhande\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230722156860\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333562994\",\"txnRcvdTimeStamp\":\"23-05-2025_12:52:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:52:39_039\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"SHARDABEN_BABUBHAI_BHANGI\",\"beneIFSC\":\"GSCB0BKD038\",\"beneAcctNum\":\"43880100075588\",\"returnBeneName\":\"SHARDABEN_BABUBHAI_BHANGI\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"NE:EP4002\",\"payReqSubCode\":\"npci:12\",\"payReqDesc\":\"Rejected by npci\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230722158820\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333562992\",\"txnRcvdTimeStamp\":\"23-05-2025_12:52:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:52:39_039\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"RAHIL\",\"beneIFSC\":\"KKBK0003719\",\"beneAcctNum\":\"8848899190\",\"returnBeneName\":\"Rahil___\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230723153980\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333563605\",\"txnRcvdTimeStamp\":\"23-05-2025_12:53:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:53:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"imran\",\"beneIFSC\":\"BARB0KOTAHX\",\"beneAcctNum\":\"01450100022692\",\"returnBeneName\":\"IMRAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230724151834\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333564199\",\"txnRcvdTimeStamp\":\"23-05-2025_12:54:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:54:25_025\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Vishal_patwa\",\"beneIFSC\":\"SBIN0RRVCGB\",\"beneAcctNum\":\"84018263068\",\"returnBeneName\":\"VISHAL_PATWA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230724154910\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333564196\",\"txnRcvdTimeStamp\":\"23-05-2025_12:54:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:54:26_026\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Bank_of_Baroda\",\"beneIFSC\":\"BARB0KODERM\",\"beneAcctNum\":\"45998100004129\",\"returnBeneName\":\"Praveen_Kumar\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230724155887\",\"custRefNum\":\"627198739\",\"bankRefId\":\"\",\"txnRcvdTimeStamp\":\"23-05-2025_12:54:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:54:15_015\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"Mahesh_pal\",\"beneIFSC\":\"ORBC0102151\",\"beneAcctNum\":\"21512413002038\",\"returnBeneName\":\"Mahesh_pal\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3005\",\"payReqDesc\":\"IMPS is not enabled for the beneficiary IFSC\",\"actionCode\":\"AC_INVALID_DATA\",\"actionDesc\":\"Invalid\/Incorrect data in message. Update and retry\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230724155927\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333564195\",\"txnRcvdTimeStamp\":\"23-05-2025_12:54:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:54:31_031\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"chandan_kumar\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"7321982438\",\"returnBeneName\":\"Chandan_Kumar\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230726154860\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333565411\",\"txnRcvdTimeStamp\":\"23-05-2025_12:56:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_12:56:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"sameer_ali\",\"beneIFSC\":\"SBIN0003438\",\"beneAcctNum\":\"36234758086\",\"returnBeneName\":\"Mr__SAMEER__ALI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230727155714\",\"custRefNum\":\"627198739\",\"bankRefId\":\"\",\"txnRcvdTimeStamp\":\"23-05-2025_12:57:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:57:15_015\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"2000_00\",\"beneName\":\"Sourav_Sit\",\"beneIFSC\":\"UITB0003040\",\"beneAcctNum\":\"924010037167914\",\"returnBeneName\":\"Sourav_Sit\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3005\",\"payReqDesc\":\"IMPS is not enabled for the beneficiary IFSC\",\"actionCode\":\"AC_INVALID_DATA\",\"actionDesc\":\"Invalid\/Incorrect data in message. Update and retry\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230727158529\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333566018\",\"txnRcvdTimeStamp\":\"23-05-2025_12:57:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:57:27_027\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"sanjit_joyardar\",\"beneIFSC\":\"SBIN0010538\",\"beneAcctNum\":\"30812534562\",\"returnBeneName\":\"Mr__SANJIT__JOYARDAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230728157499\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333566596\",\"txnRcvdTimeStamp\":\"23-05-2025_12:58:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:58:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Rakesh_Kumar\",\"beneIFSC\":\"BARB0BODALX\",\"beneAcctNum\":\"16260100013998\",\"returnBeneName\":\"RAKESHKUMAR_PARMAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230729152963\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333567359\",\"txnRcvdTimeStamp\":\"23-05-2025_12:59:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_12:59:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"devraj\",\"beneIFSC\":\"KKBK0005300\",\"beneAcctNum\":\"8912346216\",\"returnBeneName\":\"DEVRAJ\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230730152128\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333568002\",\"txnRcvdTimeStamp\":\"23-05-2025_13:00:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:00:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1934_00\",\"beneName\":\"MOHD_ARBAZ_ISHTIYAQ_QURESHI\",\"beneIFSC\":\"KKBK0001347\",\"beneAcctNum\":\"7745288434\",\"returnBeneName\":\"MOHD_ARBAZ_ISHTIYAQ_QURESHI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230730151469\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333568000\",\"txnRcvdTimeStamp\":\"23-05-2025_13:00:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:00:27_027\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Murugesan\",\"beneIFSC\":\"SBIN0005630\",\"beneAcctNum\":\"20254058349\",\"returnBeneName\":\"Mr__MURUGESAN__P\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230730152128\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333568002\",\"txnRcvdTimeStamp\":\"23-05-2025_13:00:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:00:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1934_00\",\"beneName\":\"MOHD_ARBAZ_ISHTIYAQ_QURESHI\",\"beneIFSC\":\"KKBK0001347\",\"beneAcctNum\":\"7745288434\",\"returnBeneName\":\"MOHD_ARBAZ_ISHTIYAQ_QURESHI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230730151469\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333568000\",\"txnRcvdTimeStamp\":\"23-05-2025_13:00:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:00:27_027\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Murugesan\",\"beneIFSC\":\"SBIN0005630\",\"beneAcctNum\":\"20254058349\",\"returnBeneName\":\"Mr__MURUGESAN__P\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230730152128\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333568002\",\"txnRcvdTimeStamp\":\"23-05-2025_13:00:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:00:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1934_00\",\"beneName\":\"MOHD_ARBAZ_ISHTIYAQ_QURESHI\",\"beneIFSC\":\"KKBK0001347\",\"beneAcctNum\":\"7745288434\",\"returnBeneName\":\"MOHD_ARBAZ_ISHTIYAQ_QURESHI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230731152850\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333568615\",\"txnRcvdTimeStamp\":\"23-05-2025_13:01:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:01:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"Ajeet_Singh\",\"beneIFSC\":\"HDFC0001679\",\"beneAcctNum\":\"50100237560378\",\"returnBeneName\":\"AJEET_SINGH\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230731159987\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333568616\",\"txnRcvdTimeStamp\":\"23-05-2025_13:01:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:01:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"5000_00\",\"beneName\":\"Manisha\",\"beneIFSC\":\"SBIN0003873\",\"beneAcctNum\":\"61201779038\",\"returnBeneName\":\"Mr__MANISHA___\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230731158616\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333568618\",\"txnRcvdTimeStamp\":\"23-05-2025_13:01:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:01:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Manisha\",\"beneIFSC\":\"SBIN0003873\",\"beneAcctNum\":\"61201779038\",\"returnBeneName\":\"Mr__MANISHA___\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230732154019\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333569201\",\"txnRcvdTimeStamp\":\"23-05-2025_13:02:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:02:38_038\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"INDIAN_BANK\",\"beneIFSC\":\"IDIB000N029\",\"beneAcctNum\":\"797248014\",\"returnBeneName\":\"N_Sreenivasulu\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230734151149\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333570421\",\"txnRcvdTimeStamp\":\"23-05-2025_13:04:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:04:37_037\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"sikandar_mohan_yadav\",\"beneIFSC\":\"SBIN0016038\",\"beneAcctNum\":\"39976018045\",\"returnBeneName\":\"Mr__Sikandar_Mohan_Yadav\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230735155290\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333571160\",\"txnRcvdTimeStamp\":\"23-05-2025_13:05:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:05:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"omprakash\",\"beneIFSC\":\"IDIB000J513\",\"beneAcctNum\":\"8007163415\",\"returnBeneName\":\"Omprakash\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230735157674\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333571159\",\"txnRcvdTimeStamp\":\"23-05-2025_13:05:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:05:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"ASLAM\",\"beneIFSC\":\"UBIN0540153\",\"beneAcctNum\":\"401502120003131\",\"returnBeneName\":\"ASLAM\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230737157670\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333572445\",\"txnRcvdTimeStamp\":\"23-05-2025_13:07:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:07:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"Swarup_Das\",\"beneIFSC\":\"PUNB0199620\",\"beneAcctNum\":\"1996201700011467\",\"returnBeneName\":\"SWARUP_DAS\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230740154421\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333574358\",\"txnRcvdTimeStamp\":\"23-05-2025_13:10:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:10:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"hitesh_bhoi\",\"beneIFSC\":\"AUBL0002139\",\"beneAcctNum\":\"1911213922579460\",\"returnBeneName\":\"Bhoi_Hiteshkumar_Jagdishbhai\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230743151314\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333576216\",\"txnRcvdTimeStamp\":\"23-05-2025_13:13:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:13:31_031\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Kishan_Das\",\"beneIFSC\":\"UCBA0002556\",\"beneAcctNum\":\"25560110031391\",\"returnBeneName\":\"KISHAN_DAS\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230746154074\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333578260\",\"txnRcvdTimeStamp\":\"23-05-2025_13:16:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_13:16:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"s_md_rafi\",\"beneIFSC\":\"SBIN0012909\",\"beneAcctNum\":\"30283489527\",\"returnBeneName\":\"Mr__SHAIK__MOHAMMAD_RAFI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230746159315\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333578259\",\"txnRcvdTimeStamp\":\"23-05-2025_13:16:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_13:16:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"RAKIB_ALI\",\"beneIFSC\":\"NSPB0000002\",\"beneAcctNum\":\"501023697374\",\"returnBeneName\":\"RAKIB_ALI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230748154057\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333579577\",\"txnRcvdTimeStamp\":\"23-05-2025_13:18:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:18:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"5000_00\",\"beneName\":\"Saddam_Hussain\",\"beneIFSC\":\"FINO0000001\",\"beneAcctNum\":\"20025497659\",\"returnBeneName\":\"Saddam__Hussain\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230748155208\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333579578\",\"txnRcvdTimeStamp\":\"23-05-2025_13:18:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:18:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Md_Waseem_Ansari\",\"beneIFSC\":\"CBIN0282423\",\"beneAcctNum\":\"5181608968\",\"returnBeneName\":\"Mr__MD_VASEEM__ANSARI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230751154473\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333581753\",\"txnRcvdTimeStamp\":\"23-05-2025_13:21:20_020\",\"txnUpdTimeStamp\":\"23-05-2025_13:21:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"Ajeet_Singh\",\"beneIFSC\":\"HDFC0001679\",\"beneAcctNum\":\"50100237560378\",\"returnBeneName\":\"AJEET_SINGH\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230751157521\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333581695\",\"txnRcvdTimeStamp\":\"23-05-2025_13:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:21:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Mukesh_kumar\",\"beneIFSC\":\"SBIN0001127\",\"beneAcctNum\":\"34728028224\",\"returnBeneName\":\"Mr__MUKESH__KUMAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230752159768\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333582317\",\"txnRcvdTimeStamp\":\"23-05-2025_13:22:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:22:25_025\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"s_md_rafi\",\"beneIFSC\":\"SBIN0012909\",\"beneAcctNum\":\"30283489527\",\"returnBeneName\":\"Mr__SHAIK__MOHAMMAD_RAFI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230753157543\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333582969\",\"txnRcvdTimeStamp\":\"23-05-2025_13:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:23:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"lavkush\",\"beneIFSC\":\"IPOS0000001\",\"beneAcctNum\":\"061210054646\",\"returnBeneName\":\"LAVKUSH_CHAUDHARY\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230753155442\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333582970\",\"txnRcvdTimeStamp\":\"23-05-2025_13:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:23:31_031\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Abdul_khalid\",\"beneIFSC\":\"HDFC0002952\",\"beneAcctNum\":\"50100439771591\",\"returnBeneName\":\"ABDUL_KHALID\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230753156033\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333582972\",\"txnRcvdTimeStamp\":\"23-05-2025_13:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:23:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"nadeem\",\"beneIFSC\":\"CNRB0000522\",\"beneAcctNum\":\"110036974104\",\"returnBeneName\":\"SYED__NADEEM\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230753154081\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333582971\",\"txnRcvdTimeStamp\":\"23-05-2025_13:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:23:24_024\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Sivkumar\",\"beneIFSC\":\"PSIB0021514\",\"beneAcctNum\":\"15141000000033\",\"returnBeneName\":\"SHIV_KUMAR_MISHRA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230754176217\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333583624\",\"txnRcvdTimeStamp\":\"23-05-2025_13:24:17_017\",\"txnUpdTimeStamp\":\"23-05-2025_13:24:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Santosh_Byadh\",\"beneIFSC\":\"CBIN0283146\",\"beneAcctNum\":\"3387302476\",\"returnBeneName\":\"Mr__SANTOSH__BYADH\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230754178621\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333583622\",\"txnRcvdTimeStamp\":\"23-05-2025_13:24:17_017\",\"txnUpdTimeStamp\":\"23-05-2025_13:24:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"LINGETI_VEERASWAMI\",\"beneIFSC\":\"SBIN0003131\",\"beneAcctNum\":\"40531844851\",\"returnBeneName\":\"Mr__Lingeti__Veeraswamy\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230755155858\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333584224\",\"txnRcvdTimeStamp\":\"23-05-2025_13:25:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:25:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"vinod_kumar\",\"beneIFSC\":\"HDFC0002426\",\"beneAcctNum\":\"50100516014465\",\"returnBeneName\":\"VINOD_KUMAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230757151288\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333585388\",\"txnRcvdTimeStamp\":\"23-05-2025_13:27:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:27:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"MD_RAHAMAT\",\"beneIFSC\":\"KKBK0000958\",\"beneAcctNum\":\"1948720272\",\"returnBeneName\":\"Md__Rahamat\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230758152063\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333586092\",\"txnRcvdTimeStamp\":\"23-05-2025_13:28:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:28:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"nitinkumar\",\"beneIFSC\":\"KKBK0000282\",\"beneAcctNum\":\"4646217273\",\"returnBeneName\":\"NITIN___KUMAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230800155427\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333587414\",\"txnRcvdTimeStamp\":\"23-05-2025_13:30:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:30:25_025\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Madhusmita_patra\",\"beneIFSC\":\"SBIN0005158\",\"beneAcctNum\":\"39656812929\",\"returnBeneName\":\"Mrs__MADHUSMITA__PATRA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230801156273\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333587976\",\"txnRcvdTimeStamp\":\"23-05-2025_13:31:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:31:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1934_00\",\"beneName\":\"SAIDUL_ALI_LASKAR\",\"beneIFSC\":\"SBIN0014030\",\"beneAcctNum\":\"40789393710\",\"returnBeneName\":\"Mr__Saidul_Ali_Laskar\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230803159368\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333589178\",\"txnRcvdTimeStamp\":\"23-05-2025_13:33:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:33:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"5000_00\",\"beneName\":\"SHUBHAM_SATISH_TAMBE\",\"beneIFSC\":\"HDFC0005406\",\"beneAcctNum\":\"50100724721302\",\"returnBeneName\":\"SHUBHAM_SATISH_TAMBE\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230803153169\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333589184\",\"txnRcvdTimeStamp\":\"23-05-2025_13:33:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:33:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"RAHIM_BADSHA\",\"beneIFSC\":\"PUNB0178500\",\"beneAcctNum\":\"1785001700691249\",\"returnBeneName\":\"RAHIM_BADSHA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230805159026\",\"custRefNum\":\"627198739\",\"bankRefId\":\"\",\"txnRcvdTimeStamp\":\"23-05-2025_13:35:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:35:15_015\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"1000_00\",\"beneName\":\"Sourav_Sit\",\"beneIFSC\":\"UITB0003040\",\"beneAcctNum\":\"924010037167914\",\"returnBeneName\":\"Sourav_Sit\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3005\",\"payReqDesc\":\"IMPS is not enabled for the beneficiary IFSC\",\"actionCode\":\"AC_INVALID_DATA\",\"actionDesc\":\"Invalid\/Incorrect data in message. Update and retry\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230805157319\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333590414\",\"txnRcvdTimeStamp\":\"23-05-2025_13:35:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:35:25_025\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Vivek_Kumar\",\"beneIFSC\":\"ICIC0001753\",\"beneAcctNum\":\"175301503060\",\"returnBeneName\":\"VIVEK_KUMAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230805152740\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333590415\",\"txnRcvdTimeStamp\":\"23-05-2025_13:35:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:35:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Vivek_Kumar\",\"beneIFSC\":\"ICIC0001753\",\"beneAcctNum\":\"175301503060\",\"returnBeneName\":\"VIVEK_KUMAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230805152740\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333590415\",\"txnRcvdTimeStamp\":\"23-05-2025_13:35:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:35:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Vivek_Kumar\",\"beneIFSC\":\"ICIC0001753\",\"beneAcctNum\":\"175301503060\",\"returnBeneName\":\"VIVEK_KUMAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230806192291\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333590867\",\"txnRcvdTimeStamp\":\"23-05-2025_13:36:19_019\",\"txnUpdTimeStamp\":\"23-05-2025_13:36:41_041\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"tazlima_khatun\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"9954638275\",\"returnBeneName\":\"Tazlima_Khatun\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230806197501\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333590869\",\"txnRcvdTimeStamp\":\"23-05-2025_13:36:19_019\",\"txnUpdTimeStamp\":\"23-05-2025_13:36:42_042\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"5000_00\",\"beneName\":\"s_sattibabu\",\"beneIFSC\":\"SBIN0000789\",\"beneAcctNum\":\"30956173701\",\"returnBeneName\":\"Mr__SIDDHANTHAPU__SATTIBABU\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230807158105\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333591527\",\"txnRcvdTimeStamp\":\"23-05-2025_13:37:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:37:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Rinku\",\"beneIFSC\":\"SBIN0006984\",\"beneAcctNum\":\"31878507920\",\"returnBeneName\":\"Mr__RINKU___\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230809154299\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333592796\",\"txnRcvdTimeStamp\":\"23-05-2025_13:39:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:39:26_026\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"samir_Kumar_Bharti\",\"beneIFSC\":\"PUNB0793900\",\"beneAcctNum\":\"7939000100181308\",\"returnBeneName\":\"SAMIR_KUMAR_BHARTI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230811155230\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333594295\",\"txnRcvdTimeStamp\":\"23-05-2025_13:41:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:41:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"SEKHSANABULAII\",\"beneIFSC\":\"BDBL0001679\",\"beneAcctNum\":\"50220012696863\",\"returnBeneName\":\"SEKH_SAHABUL_ALI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230811159768\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333594294\",\"txnRcvdTimeStamp\":\"23-05-2025_13:41:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:41:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"SUTHISHKUMAR\",\"beneIFSC\":\"KKBK0008539\",\"beneAcctNum\":\"4649204270\",\"returnBeneName\":\"SUTHISHKUMAR_R_M\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230815152581\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333596526\",\"txnRcvdTimeStamp\":\"23-05-2025_13:45:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_13:45:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"10000_00\",\"beneName\":\"GULFAM\",\"beneIFSC\":\"SBIN0011326\",\"beneAcctNum\":\"34989373102\",\"returnBeneName\":\"Mr__GULFAM__GULFAM\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230815152998\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333596525\",\"txnRcvdTimeStamp\":\"23-05-2025_13:45:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:45:41_041\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"10000_00\",\"beneName\":\"Narendra\",\"beneIFSC\":\"HDFC0000786\",\"beneAcctNum\":\"50100221759112\",\"returnBeneName\":\"NARENDRA_KUMAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230815151270\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333596529\",\"txnRcvdTimeStamp\":\"23-05-2025_13:45:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_13:45:44_044\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"mandeep_kaur\",\"beneIFSC\":\"PUNB0044S00\",\"beneAcctNum\":\"11712122004662\",\"returnBeneName\":\"MANDEEP_KAUR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230817156736\",\"custRefNum\":\"627198739\",\"bankRefId\":\"\",\"txnRcvdTimeStamp\":\"23-05-2025_13:47:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_13:47:17_017\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"1000_00\",\"beneName\":\"Sourav_Sit\",\"beneIFSC\":\"UITB0003040\",\"beneAcctNum\":\"924010037167914\",\"returnBeneName\":\"Sourav_Sit\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3005\",\"payReqDesc\":\"IMPS is not enabled for the beneficiary IFSC\",\"actionCode\":\"AC_INVALID_DATA\",\"actionDesc\":\"Invalid\/Incorrect data in message. Update and retry\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230818151397\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333598056\",\"txnRcvdTimeStamp\":\"23-05-2025_13:48:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:48:37_037\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Sanirawat\",\"beneIFSC\":\"CBIN0283000\",\"beneAcctNum\":\"3624445918\",\"returnBeneName\":\"Mr__SATYA__NARAYAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230819153906\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333598757\",\"txnRcvdTimeStamp\":\"23-05-2025_13:49:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:49:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"10000_00\",\"beneName\":\"sabnam_khatun\",\"beneIFSC\":\"BARB0LOCHAN\",\"beneAcctNum\":\"15728100052353\",\"returnBeneName\":\"SABNAM_KHATUN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230820168272\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333599341\",\"txnRcvdTimeStamp\":\"23-05-2025_13:50:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_13:50:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"hamidul_houpue\",\"beneIFSC\":\"SBIN0008526\",\"beneAcctNum\":\"43373520174\",\"returnBeneName\":\"Mr__Hamidul__Hoque\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230820164422\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333599342\",\"txnRcvdTimeStamp\":\"23-05-2025_13:50:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_13:50:31_031\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"IMRAN_ABDUL_GAFOOR_SAKKHA\",\"beneIFSC\":\"BKID0000756\",\"beneAcctNum\":\"075610110011354\",\"returnBeneName\":\"IMRAN_ABDUL_GAFFOOR_SAKKHA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230822152450\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333600372\",\"txnRcvdTimeStamp\":\"23-05-2025_13:52:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:52:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"sanjib\",\"beneIFSC\":\"CNRB0000424\",\"beneAcctNum\":\"110040724730\",\"returnBeneName\":\"SANJIB__TIRKEY\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230823156399\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333600894\",\"txnRcvdTimeStamp\":\"23-05-2025_13:53:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:53:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"rajpal\",\"beneIFSC\":\"PUNB0851600\",\"beneAcctNum\":\"8516001700010683\",\"returnBeneName\":\"RAJPAL\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230823156663\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333600900\",\"txnRcvdTimeStamp\":\"23-05-2025_13:53:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_13:53:31_031\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"kajol_mahadev_shirmale\",\"beneIFSC\":\"SBIN0006839\",\"beneAcctNum\":\"20457358092\",\"returnBeneName\":\"Miss__KAJOL_MAHADEV_SHIRMALE\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230826166883\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333602475\",\"txnRcvdTimeStamp\":\"23-05-2025_13:56:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_13:56:25_025\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"BONI_BISWAS\",\"beneIFSC\":\"IPOS0000001\",\"beneAcctNum\":\"064410187054\",\"returnBeneName\":\"BANI_BISWAS\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230828177515\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333603679\",\"txnRcvdTimeStamp\":\"23-05-2025_13:58:17_017\",\"txnUpdTimeStamp\":\"23-05-2025_13:58:39_039\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"naveen\",\"beneIFSC\":\"IDIB000S105\",\"beneAcctNum\":\"603588600\",\"returnBeneName\":\"NAVEEN_KUMAR__G\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230828173977\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333603677\",\"txnRcvdTimeStamp\":\"23-05-2025_13:58:17_017\",\"txnUpdTimeStamp\":\"23-05-2025_13:58:39_039\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Pawan\",\"beneIFSC\":\"SBIN0009032\",\"beneAcctNum\":\"38485524838\",\"returnBeneName\":\"Mr__PAWAN___\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230828175855\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333603678\",\"txnRcvdTimeStamp\":\"23-05-2025_13:58:17_017\",\"txnUpdTimeStamp\":\"23-05-2025_13:58:46_046\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"naveen\",\"beneIFSC\":\"IDIB000S105\",\"beneAcctNum\":\"603588600\",\"returnBeneName\":\"NAVEEN_KUMAR__G\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230829151382\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333604206\",\"txnRcvdTimeStamp\":\"23-05-2025_13:59:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_13:59:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"naveen\",\"beneIFSC\":\"IDIB000S105\",\"beneAcctNum\":\"603588600\",\"returnBeneName\":\"NAVEEN_KUMAR__G\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230830155715\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333604808\",\"txnRcvdTimeStamp\":\"23-05-2025_14:00:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:00:23_023\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"ambuj_Singh\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"6394349240\",\"returnBeneName\":\"Ambuj_Singh\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230830157152\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333604812\",\"txnRcvdTimeStamp\":\"23-05-2025_14:00:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:00:39_039\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Vihari_Meena\",\"beneIFSC\":\"SBIN0031424\",\"beneAcctNum\":\"61271242141\",\"returnBeneName\":\"Mr__VIHARI__MEENA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230832154654\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333606076\",\"txnRcvdTimeStamp\":\"23-05-2025_14:02:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_14:02:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Mukesh_sen\",\"beneIFSC\":\"BARB0RAMAKO\",\"beneAcctNum\":\"26108100000330\",\"returnBeneName\":\"MUKESH_SEN__SO_RAMESHCHANDRA_SEN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230833155316\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333606667\",\"txnRcvdTimeStamp\":\"23-05-2025_14:03:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:03:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Shiv_nath_verma\",\"beneIFSC\":\"BARB0BHOJPU\",\"beneAcctNum\":\"32290100018750\",\"returnBeneName\":\"SHIVNATH_VARMA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230834157727\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333607213\",\"txnRcvdTimeStamp\":\"23-05-2025_14:04:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:04:24_024\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"RAJENDRA_KUMAR\",\"beneIFSC\":\"BARB0SAMAST\",\"beneAcctNum\":\"31190100007027\",\"returnBeneName\":\"RAJENDRA_KUMAR_S_O_RAM_SAGAR_RAY\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230834156552\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333607212\",\"txnRcvdTimeStamp\":\"23-05-2025_14:04:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:04:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"5000_00\",\"beneName\":\"muktar_ali\",\"beneIFSC\":\"KKBK0000207\",\"beneAcctNum\":\"0747786359\",\"returnBeneName\":\"Muktar__Alam\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230835155311\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333607775\",\"txnRcvdTimeStamp\":\"23-05-2025_14:05:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:05:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"monika\",\"beneIFSC\":\"SBIN0050654\",\"beneAcctNum\":\"37644989076\",\"returnBeneName\":\"Mr__MONIKA___\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230836154834\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333608372\",\"txnRcvdTimeStamp\":\"23-05-2025_14:06:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:06:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"asiya_bibi\",\"beneIFSC\":\"SBIN0008207\",\"beneAcctNum\":\"43548048429\",\"returnBeneName\":\"Mrs__Asiya__Bibi\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230837157724\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333608997\",\"txnRcvdTimeStamp\":\"23-05-2025_14:07:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:07:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"NETHALA_SATYAVENI\",\"beneIFSC\":\"UBIN0931098\",\"beneAcctNum\":\"310922010001171\",\"returnBeneName\":\"NETHALA_SATYAVENI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230838152206\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333609503\",\"txnRcvdTimeStamp\":\"23-05-2025_14:08:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:08:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Parveen_kaur\",\"beneIFSC\":\"UBIN0933970\",\"beneAcctNum\":\"339722010001285\",\"returnBeneName\":\"PARVEEN_KAUR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230842158562\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333611559\",\"txnRcvdTimeStamp\":\"23-05-2025_14:12:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:12:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Bhim_Kushwaha\",\"beneIFSC\":\"SBIN0028156\",\"beneAcctNum\":\"38994112587\",\"returnBeneName\":\"Mr__BHIM__KUSHWAHA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230846156700\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333613664\",\"txnRcvdTimeStamp\":\"23-05-2025_14:16:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:16:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"satish\",\"beneIFSC\":\"HDFC0000502\",\"beneAcctNum\":\"50100784096561\",\"returnBeneName\":\"SATISH_MACHHINDRA_SINDE\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230847157922\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333614175\",\"txnRcvdTimeStamp\":\"23-05-2025_14:17:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:17:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"AmalMallick\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"9932722986\",\"returnBeneName\":\"Amal_Mallick\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230848154095\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333614686\",\"txnRcvdTimeStamp\":\"23-05-2025_14:18:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:18:22_022\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"35000_00\",\"beneName\":\"KANWAR_SINGH\",\"beneIFSC\":\"PUNB0097700\",\"beneAcctNum\":\"0977001700085776\",\"returnBeneName\":\"KANWAR_SINGH\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230848154630\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333614684\",\"txnRcvdTimeStamp\":\"23-05-2025_14:18:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:18:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Sonalben_VijaybhaI\",\"beneIFSC\":\"BARB0KARAMS\",\"beneAcctNum\":\"03050100010754\",\"returnBeneName\":\"SONALBEN_VIJAYBHAI_TALPADA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230849158298\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333615285\",\"txnRcvdTimeStamp\":\"23-05-2025_14:19:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:19:38_038\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"Rajan_Kumar\",\"beneIFSC\":\"ICIC0001619\",\"beneAcctNum\":\"161901000857\",\"returnBeneName\":\"RAJAN__KUMAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230851153803\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333616706\",\"txnRcvdTimeStamp\":\"23-05-2025_14:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:21:38_038\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"BANDHAN_BANK\",\"beneIFSC\":\"BDBL0001411\",\"beneAcctNum\":\"50220028008491\",\"returnBeneName\":\"MIRZA_INSAN_BEG\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230851158833\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333616704\",\"txnRcvdTimeStamp\":\"23-05-2025_14:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:21:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1934_00\",\"beneName\":\"Arvindra_kumar\",\"beneIFSC\":\"PUNB0127000\",\"beneAcctNum\":\"1270001700158912\",\"returnBeneName\":\"ARVINDRA_KUMAR_S\/O_GYA_PRASAD\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230851153803\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333616706\",\"txnRcvdTimeStamp\":\"23-05-2025_14:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:21:38_038\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"BANDHAN_BANK\",\"beneIFSC\":\"BDBL0001411\",\"beneAcctNum\":\"50220028008491\",\"returnBeneName\":\"MIRZA_INSAN_BEG\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230852155758\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333617185\",\"txnRcvdTimeStamp\":\"23-05-2025_14:22:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:22:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"jitendra\",\"beneIFSC\":\"IOBA0002959\",\"beneAcctNum\":\"295901000018002\",\"returnBeneName\":\"JITENDRA_CHANDRAVANSHI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230852156291\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333617184\",\"txnRcvdTimeStamp\":\"23-05-2025_14:22:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:22:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"jitendra\",\"beneIFSC\":\"IOBA0002959\",\"beneAcctNum\":\"295901000018002\",\"returnBeneName\":\"JITENDRA_CHANDRAVANSHI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230853154329\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333617575\",\"txnRcvdTimeStamp\":\"23-05-2025_14:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:23:26_026\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"nilesh\",\"beneIFSC\":\"IOBA0000662\",\"beneAcctNum\":\"066201000005536\",\"returnBeneName\":\"NILESH__\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230853155992\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333617574\",\"txnRcvdTimeStamp\":\"23-05-2025_14:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:23:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"pankaj_soni\",\"beneIFSC\":\"SBIN0031766\",\"beneAcctNum\":\"61269166182\",\"returnBeneName\":\"Mr__PANKAJ__SONI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230853154574\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333617576\",\"txnRcvdTimeStamp\":\"23-05-2025_14:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:23:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"RAJIV_BARMAN\",\"beneIFSC\":\"SBIN0014788\",\"beneAcctNum\":\"32647826138\",\"returnBeneName\":\"Mr__RAJIV__BARMAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230855156803\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333618427\",\"txnRcvdTimeStamp\":\"23-05-2025_14:25:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:25:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"raju\",\"beneIFSC\":\"SBIN0050387\",\"beneAcctNum\":\"40241599179\",\"returnBeneName\":\"Mr__Raju___\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230855155679\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333618425\",\"txnRcvdTimeStamp\":\"23-05-2025_14:25:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:25:37_037\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"35000_00\",\"beneName\":\"Prakash_Chandra_mohapatra\",\"beneIFSC\":\"UTIB0000718\",\"beneAcctNum\":\"919010087055614\",\"returnBeneName\":\"PRAKASH_CHANDRA_MOHAPATRA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230855157787\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333618426\",\"txnRcvdTimeStamp\":\"23-05-2025_14:25:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:25:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"swapanmaity\",\"beneIFSC\":\"BARB0PBBMUM\",\"beneAcctNum\":\"27940100025601\",\"returnBeneName\":\"SWAPAN_MAITY\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230855155437\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333618424\",\"txnRcvdTimeStamp\":\"23-05-2025_14:25:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:25:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"5000_00\",\"beneName\":\"MAMANI_BEGUM\",\"beneIFSC\":\"FINO0001001\",\"beneAcctNum\":\"20287756833\",\"returnBeneName\":\"Mamani__Begum\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230901158247\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333621366\",\"txnRcvdTimeStamp\":\"23-05-2025_14:31:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_14:31:39_039\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"2000_00\",\"beneName\":\"SHARDABEN_BABUBHAI_BHANGI\",\"beneIFSC\":\"GSCB0BKD038\",\"beneAcctNum\":\"43880100075588\",\"returnBeneName\":\"SHARDABEN_BABUBHAI_BHANGI\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"NE:EP4002\",\"payReqSubCode\":\"npci:12\",\"payReqDesc\":\"Rejected by npci\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230904163304\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333622700\",\"txnRcvdTimeStamp\":\"23-05-2025_14:34:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_14:34:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"mustak_khan\",\"beneIFSC\":\"CNRB0002141\",\"beneAcctNum\":\"2141101066313\",\"returnBeneName\":\"MUSTAK__KHAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230906153117\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333623760\",\"txnRcvdTimeStamp\":\"23-05-2025_14:36:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:36:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"10000_00\",\"beneName\":\"madhav_Narwade\",\"beneIFSC\":\"IPOS0000001\",\"beneAcctNum\":\"033510323198\",\"returnBeneName\":\"MADHV_GOVINDRAV_NARWADE\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230906157016\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333623762\",\"txnRcvdTimeStamp\":\"23-05-2025_14:36:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:36:38_038\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"10000_00\",\"beneName\":\"Chhote_kumar\",\"beneIFSC\":\"SBIN0013132\",\"beneAcctNum\":\"38700909337\",\"returnBeneName\":\"Mr__CHHOTE__KUMAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230909156986\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333625239\",\"txnRcvdTimeStamp\":\"23-05-2025_14:39:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:39:25_025\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"JAVID\",\"beneIFSC\":\"PUNB0644100\",\"beneAcctNum\":\"6441000100101116\",\"returnBeneName\":\"JAVID\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230914159821\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333627828\",\"txnRcvdTimeStamp\":\"23-05-2025_14:44:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:44:36_036\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"banshidhar\",\"beneIFSC\":\"SBIN0031171\",\"beneAcctNum\":\"61344380474\",\"returnBeneName\":\"Mr__BANSHI__DHAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230915159892\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333628366\",\"txnRcvdTimeStamp\":\"23-05-2025_14:45:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:45:27_027\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"subir_ghosh\",\"beneIFSC\":\"SBIN0003242\",\"beneAcctNum\":\"42079583680\",\"returnBeneName\":\"Mr__SUBIR__GHOSH\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230915155990\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333628365\",\"txnRcvdTimeStamp\":\"23-05-2025_14:45:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:45:26_026\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"khokon_Ali_gazi\",\"beneIFSC\":\"KKBK0000811\",\"beneAcctNum\":\"2549654157\",\"returnBeneName\":\"Khokon_Ali_Gazi\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230915158693\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333628367\",\"txnRcvdTimeStamp\":\"23-05-2025_14:45:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:45:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"AJAY_CHAUHAN\",\"beneIFSC\":\"KKBK0005029\",\"beneAcctNum\":\"7849986045\",\"returnBeneName\":\"AJAY_CHAUHAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230918152924\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333629882\",\"txnRcvdTimeStamp\":\"23-05-2025_14:48:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:48:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"sameenataj\",\"beneIFSC\":\"CNRB0000769\",\"beneAcctNum\":\"0769101127786\",\"returnBeneName\":\"SAMEENA_TAJ\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230919157520\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333630280\",\"txnRcvdTimeStamp\":\"23-05-2025_14:49:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:49:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Anand_mukhlal_bharti\",\"beneIFSC\":\"SBIN0015682\",\"beneAcctNum\":\"33673070046\",\"returnBeneName\":\"Mr__ANAND_MUKHLAL_BHARTI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230921152601\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333631337\",\"txnRcvdTimeStamp\":\"23-05-2025_14:51:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:51:43_043\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"964_00\",\"beneName\":\"SURESHSRILALMANSHARMA\",\"beneIFSC\":\"UBIN0567205\",\"beneAcctNum\":\"672002010007690\",\"returnBeneName\":\"SURESH_SRILALMAN_SHARMA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230921152601\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333631337\",\"txnRcvdTimeStamp\":\"23-05-2025_14:51:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:51:43_043\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"964_00\",\"beneName\":\"SURESHSRILALMANSHARMA\",\"beneIFSC\":\"UBIN0567205\",\"beneAcctNum\":\"672002010007690\",\"returnBeneName\":\"SURESH_SRILALMAN_SHARMA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230922153283\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333631893\",\"txnRcvdTimeStamp\":\"23-05-2025_14:52:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:52:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"MD_sahabuddin\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"9304183761\",\"returnBeneName\":\"Md_Sahabuddin\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230922157093\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333631894\",\"txnRcvdTimeStamp\":\"23-05-2025_14:52:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:52:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"10000_00\",\"beneName\":\"ROSHAN_JONWALMAL\",\"beneIFSC\":\"UBIN0541311\",\"beneAcctNum\":\"413102120007316\",\"returnBeneName\":\"ROSHAN_JONWALMAL\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230923151835\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333632426\",\"txnRcvdTimeStamp\":\"23-05-2025_14:53:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:53:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"10000_00\",\"beneName\":\"madhav_Narwade\",\"beneIFSC\":\"IPOS0000001\",\"beneAcctNum\":\"033510323198\",\"returnBeneName\":\"MADHV_GOVINDRAV_NARWADE\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230924157647\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333632836\",\"txnRcvdTimeStamp\":\"23-05-2025_14:54:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:54:35_035\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Devindrappa\",\"beneIFSC\":\"SBIN0020235\",\"beneAcctNum\":\"41068942278\",\"returnBeneName\":\"Mr__Devindrappa___\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230925155794\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333633266\",\"txnRcvdTimeStamp\":\"23-05-2025_14:55:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:55:39_039\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Raj_kumar_pegu\",\"beneIFSC\":\"SBIN0010760\",\"beneAcctNum\":\"35062870778\",\"returnBeneName\":\"Mr__RAJ_KUMAR_PEGU\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230925156437\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333633267\",\"txnRcvdTimeStamp\":\"23-05-2025_14:55:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:55:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Avinash_Gautam\",\"beneIFSC\":\"PUNB0162710\",\"beneAcctNum\":\"52232043000012\",\"returnBeneName\":\"AVINASH_GAUTAM\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230926155000\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333633703\",\"txnRcvdTimeStamp\":\"23-05-2025_14:56:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:56:25_025\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"KAREN_NAYEK\",\"beneIFSC\":\"SBIN0011385\",\"beneAcctNum\":\"41431216947\",\"returnBeneName\":\"Mr__Karen__Nayek\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230929153781\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333635366\",\"txnRcvdTimeStamp\":\"23-05-2025_14:59:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:59:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"vijay_bhagvan_avchar\",\"beneIFSC\":\"SRCB0000060\",\"beneAcctNum\":\"060200100180896\",\"returnBeneName\":\"VIJAY_BHAGWAN_AVACHAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230929155771\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333635365\",\"txnRcvdTimeStamp\":\"23-05-2025_14:59:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_14:59:37_037\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"NSDL_Payments_Bank\",\"beneIFSC\":\"NSPB0000002\",\"beneAcctNum\":\"501042656604\",\"returnBeneName\":\"MD_MUBAROK_ALI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230931152394\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333636336\",\"txnRcvdTimeStamp\":\"23-05-2025_15:01:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:01:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"samim_jahan\",\"beneIFSC\":\"SBIN0001121\",\"beneAcctNum\":\"40713566218\",\"returnBeneName\":\"Miss__Samim__Jahan\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230932155122\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333636799\",\"txnRcvdTimeStamp\":\"23-05-2025_15:02:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:02:37_037\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Sk_Riajuddin\",\"beneIFSC\":\"SBIN0014094\",\"beneAcctNum\":\"34185265124\",\"returnBeneName\":\"Mr__Sk__Riajuddin\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230933152495\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333637261\",\"txnRcvdTimeStamp\":\"23-05-2025_15:03:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:03:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"mukesh_vaghrodiya\",\"beneIFSC\":\"BARB0DBDUDH\",\"beneAcctNum\":\"92810100007755\",\"returnBeneName\":\"MUKESH_BENDIYA_VAGRODIYA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230936152320\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333639007\",\"txnRcvdTimeStamp\":\"23-05-2025_15:06:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_15:06:27_027\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Ranjit\",\"beneIFSC\":\"SBIN0010419\",\"beneAcctNum\":\"40391206406\",\"returnBeneName\":\"Mr__RANJIT_KUMAR_MITRA\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230936151120\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333639009\",\"txnRcvdTimeStamp\":\"23-05-2025_15:06:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_15:06:39_039\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"Lalu_Bind\",\"beneIFSC\":\"SBIN0003983\",\"beneAcctNum\":\"36196987233\",\"returnBeneName\":\"Mr__LALU__BIND\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230938158955\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640061\",\"txnRcvdTimeStamp\":\"23-05-2025_15:08:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:08:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"sarjit_nath\",\"beneIFSC\":\"SBIN0014261\",\"beneAcctNum\":\"38988184016\",\"returnBeneName\":\"Mr__SARAJIT__NATH\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230938159048\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640059\",\"txnRcvdTimeStamp\":\"23-05-2025_15:08:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:08:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"sajid\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"9138396232\",\"returnBeneName\":\"Sajid_\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230939153685\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640522\",\"txnRcvdTimeStamp\":\"23-05-2025_15:09:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:09:27_027\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Sandeep_Kumar_Chauhan\",\"beneIFSC\":\"SBIN0011230\",\"beneAcctNum\":\"37474609338\",\"returnBeneName\":\"Mr__SANDEEP_KUMAR_CHAUHAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230939155838\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640523\",\"txnRcvdTimeStamp\":\"23-05-2025_15:09:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:09:31_031\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"Ashalesh_Kunjarwad\",\"beneIFSC\":\"SBIN0007386\",\"beneAcctNum\":\"33228763357\",\"returnBeneName\":\"Miss__ASHLESHA_UMAJI_SUDEWAD\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230939152085\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640521\",\"txnRcvdTimeStamp\":\"23-05-2025_15:09:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:09:32_032\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"SANJAYKUMARTHAKUR\",\"beneIFSC\":\"SBIN0009217\",\"beneAcctNum\":\"36555364856\",\"returnBeneName\":\"Mrs__NIRASHA__DEVI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230939159637\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640520\",\"txnRcvdTimeStamp\":\"23-05-2025_15:09:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:09:33_033\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"2000_00\",\"beneName\":\"Ashalesh_Kunjarwad\",\"beneIFSC\":\"SBIN0007386\",\"beneAcctNum\":\"33228763357\",\"returnBeneName\":\"Miss__ASHLESHA_UMAJI_SUDEWAD\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230939159663\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640519\",\"txnRcvdTimeStamp\":\"23-05-2025_15:09:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:09:25_025\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"rajnish_dhman\",\"beneIFSC\":\"PUNB0131010\",\"beneAcctNum\":\"1310100100002094\",\"returnBeneName\":\"RAJNISH_KUMAR_DHIMAN\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230939158417\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640517\",\"txnRcvdTimeStamp\":\"23-05-2025_15:09:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:09:31_031\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"hemant_suradkar\",\"beneIFSC\":\"ICIC0000044\",\"beneAcctNum\":\"004401587807\",\"returnBeneName\":\"HEMANT_SUBHASH_SURADKAR\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230939158023\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640516\",\"txnRcvdTimeStamp\":\"23-05-2025_15:09:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:09:39_039\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"5000_00\",\"beneName\":\"JIDIYA_VIPULBHAI_VALLBHBHAI\",\"beneIFSC\":\"JIOP0000001\",\"beneAcctNum\":\"001121711054046\",\"returnBeneName\":\"Jidiya_Vallabhbhai\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230940155131\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640964\",\"txnRcvdTimeStamp\":\"23-05-2025_15:10:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:10:20_020\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"1000_00\",\"beneName\":\"Sundari_Kumari\",\"beneIFSC\":\"FINO0001001\",\"beneAcctNum\":\"20119962871\",\"returnBeneName\":\"Sundari_Kumari\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230940153355\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640971\",\"txnRcvdTimeStamp\":\"23-05-2025_15:10:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:10:20_020\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"1000_00\",\"beneName\":\"ISWARI_PRASAD_BADHAI\",\"beneIFSC\":\"SBIN0012087\",\"beneAcctNum\":\"30764516921\",\"returnBeneName\":\"ISWARI_PRASAD_BADHAI\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230940158969\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640965\",\"txnRcvdTimeStamp\":\"23-05-2025_15:10:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:10:29_029\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"kashiram\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"9511169600\",\"returnBeneName\":\"Kashi_Ram\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230940157195\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640970\",\"txnRcvdTimeStamp\":\"23-05-2025_15:10:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:10:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"964_00\",\"beneName\":\"ISWARI_PRASAD_BADHAI\",\"beneIFSC\":\"SBIN0012087\",\"beneAcctNum\":\"30764516921\",\"returnBeneName\":\"Mr__ISWARI_PRASAD__BADHAI\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230940155741\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640969\",\"txnRcvdTimeStamp\":\"23-05-2025_15:10:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:10:31_031\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"1000_00\",\"beneName\":\"Milton_mondal\",\"beneIFSC\":\"SBIN0003735\",\"beneAcctNum\":\"36050001688\",\"returnBeneName\":\"Mr__MILTANMONDAL__MONDAL\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230940152571\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640968\",\"txnRcvdTimeStamp\":\"23-05-2025_15:10:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:10:30_030\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"sajid\",\"beneIFSC\":\"AIRP0000001\",\"beneAcctNum\":\"9138396232\",\"returnBeneName\":\"Sajid_\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230940156402\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333640966\",\"txnRcvdTimeStamp\":\"23-05-2025_15:10:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:10:34_034\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"RABIUL_ISLAM\",\"beneIFSC\":\"SBIN0002037\",\"beneAcctNum\":\"39489323346\",\"returnBeneName\":\"Mr__RABIUL__ISLAM\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230941152060\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333641373\",\"txnRcvdTimeStamp\":\"23-05-2025_15:11:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:11:20_020\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"1000_00\",\"beneName\":\"Sundari_Kumari\",\"beneIFSC\":\"FINO0001001\",\"beneAcctNum\":\"20119962871\",\"returnBeneName\":\"Sundari_Kumari\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230941158419\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333641374\",\"txnRcvdTimeStamp\":\"23-05-2025_15:11:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:11:20_020\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"964_00\",\"beneName\":\"JAGDISH_BHAI_GABHUBHAI_RAVAL\",\"beneIFSC\":\"BARB0NANDAS\",\"beneAcctNum\":\"55340100003344\",\"returnBeneName\":\"JAGDISH_BHAI_GABHUBHAI_RAVAL\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230942152727\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333641835\",\"txnRcvdTimeStamp\":\"23-05-2025_15:12:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:12:28_028\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"COMPLETED\",\"amount\":\"500_00\",\"beneName\":\"RAJKUMAR_JATAV\",\"beneIFSC\":\"SBIN0004191\",\"beneAcctNum\":\"61225314532\",\"returnBeneName\":\"Mr__RAJ_KUMAR__JATAV\"}}}": ""
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230943156880\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333642503\",\"txnRcvdTimeStamp\":\"23-05-2025_15:13:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:13:21_021\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"poonam\",\"beneIFSC\":\"KKBK0003905\",\"beneAcctNum\":\"2347698698\",\"returnBeneName\":\"poonam\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230943153419\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333642502\",\"txnRcvdTimeStamp\":\"23-05-2025_15:13:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:13:21_021\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"4844_00\",\"beneName\":\"balkishan\",\"beneIFSC\":\"CNRB0000195\",\"beneAcctNum\":\"0195101066771\",\"returnBeneName\":\"balkishan\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230943153586\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333642501\",\"txnRcvdTimeStamp\":\"23-05-2025_15:13:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:13:21_021\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"Rahul_hasham_shaikh\",\"beneIFSC\":\"KKBK0000728\",\"beneAcctNum\":\"0146387263\",\"returnBeneName\":\"Rahul_hasham_shaikh\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230943151560\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333642504\",\"txnRcvdTimeStamp\":\"23-05-2025_15:13:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:13:21_021\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"2000_00\",\"beneName\":\"arvind_goutam\",\"beneIFSC\":\"SBIN0011792\",\"beneAcctNum\":\"33076604885\",\"returnBeneName\":\"arvind_goutam\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230943157465\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333642505\",\"txnRcvdTimeStamp\":\"23-05-2025_15:13:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:13:21_021\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"SAMPAD_DAS\",\"beneIFSC\":\"HDFC0003183\",\"beneAcctNum\":\"50100365883151\",\"returnBeneName\":\"SAMPAD_DAS\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230945153327\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333643549\",\"txnRcvdTimeStamp\":\"23-05-2025_15:15:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:15:21_021\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"RAMESH\",\"beneIFSC\":\"KKBK0008043\",\"beneAcctNum\":\"5846317558\",\"returnBeneName\":\"RAMESH\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230945153472\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333643550\",\"txnRcvdTimeStamp\":\"23-05-2025_15:15:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:15:21_021\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"1000_00\",\"beneName\":\"Prakash\",\"beneIFSC\":\"SBIN0060011\",\"beneAcctNum\":\"40505207131\",\"returnBeneName\":\"Prakash\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230946152512\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333644102\",\"txnRcvdTimeStamp\":\"23-05-2025_15:16:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:16:27_027\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"964_00\",\"beneName\":\"teeslim\",\"beneIFSC\":\"PUNB0079200\",\"beneAcctNum\":\"00532281017830\",\"returnBeneName\":\"teeslim\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230948156576\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333645122\",\"txnRcvdTimeStamp\":\"23-05-2025_15:18:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_15:18:23_023\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"raju_bairwa\",\"beneIFSC\":\"BARB0BASRAX\",\"beneAcctNum\":\"47740100008574\",\"returnBeneName\":\"raju_bairwa\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230949156792\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333645604\",\"txnRcvdTimeStamp\":\"23-05-2025_15:19:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:19:22_022\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"1000_00\",\"beneName\":\"Biman_Joardar\",\"beneIFSC\":\"IDIB000T532\",\"beneAcctNum\":\"7707222091\",\"returnBeneName\":\"Biman_Joardar\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230949153870\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333645602\",\"txnRcvdTimeStamp\":\"23-05-2025_15:19:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:19:22_022\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"5000_00\",\"beneName\":\"Firdous_Ahmad_Khan\",\"beneIFSC\":\"JAKA0VILGAM\",\"beneAcctNum\":\"0568040100013373\",\"returnBeneName\":\"Firdous_Ahmad_Khan\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230949152727\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333645599\",\"txnRcvdTimeStamp\":\"23-05-2025_15:19:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:19:22_022\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"Prakash\",\"beneIFSC\":\"SBIN0060011\",\"beneAcctNum\":\"40505207131\",\"returnBeneName\":\"Prakash\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230951158273\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333646757\",\"txnRcvdTimeStamp\":\"23-05-2025_15:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:21:23_023\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"20000_00\",\"beneName\":\"Gaurav_singh\",\"beneIFSC\":\"PUNB0088100\",\"beneAcctNum\":\"08642191027958\",\"returnBeneName\":\"Gaurav_singh\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230951154203\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333646755\",\"txnRcvdTimeStamp\":\"23-05-2025_15:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:21:23_023\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"mangti_bai\",\"beneIFSC\":\"BKID0009919\",\"beneAcctNum\":\"991918210004887\",\"returnBeneName\":\"mangti_bai\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230951155944\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333646756\",\"txnRcvdTimeStamp\":\"23-05-2025_15:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:21:23_023\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"pabitra_biswal\",\"beneIFSC\":\"SBIN0013576\",\"beneAcctNum\":\"37609158260\",\"returnBeneName\":\"pabitra_biswal\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230951151981\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333646754\",\"txnRcvdTimeStamp\":\"23-05-2025_15:21:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:21:23_023\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"5000_00\",\"beneName\":\"Gaurav_singh\",\"beneIFSC\":\"PUNB0088100\",\"beneAcctNum\":\"08642191027958\",\"returnBeneName\":\"Gaurav_singh\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230952156400\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333647267\",\"txnRcvdTimeStamp\":\"23-05-2025_15:22:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:22:21_021\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"Rahul_sk\",\"beneIFSC\":\"INDB0000396\",\"beneAcctNum\":\"100199516556\",\"returnBeneName\":\"Rahul_sk\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230952153182\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333647269\",\"txnRcvdTimeStamp\":\"23-05-2025_15:22:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:22:21_021\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"Badarsing\",\"beneIFSC\":\"HDFC0007924\",\"beneAcctNum\":\"50100608636635\",\"returnBeneName\":\"Badarsing\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230952152056\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333647268\",\"txnRcvdTimeStamp\":\"23-05-2025_15:22:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:22:21_021\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"SBI\",\"beneIFSC\":\"SBIN0018259\",\"beneAcctNum\":\"43742387201\",\"returnBeneName\":\"SBI\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230953152782\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333647763\",\"txnRcvdTimeStamp\":\"23-05-2025_15:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:23:22_022\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"Rajkumar_Singh\",\"beneIFSC\":\"SBIN0008704\",\"beneAcctNum\":\"30074980068\",\"returnBeneName\":\"Rajkumar_Singh\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230953159654\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333647764\",\"txnRcvdTimeStamp\":\"23-05-2025_15:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:23:20_020\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"1000_00\",\"beneName\":\"Ramprasad_saket\",\"beneIFSC\":\"KKBK0000728\",\"beneAcctNum\":\"9247493750\",\"returnBeneName\":\"Ramprasad_saket\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230953156493\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333647767\",\"txnRcvdTimeStamp\":\"23-05-2025_15:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:23:20_020\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"5000_00\",\"beneName\":\"logeshwaran\",\"beneIFSC\":\"SBIN0007230\",\"beneAcctNum\":\"20244932538\",\"returnBeneName\":\"logeshwaran\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230953152993\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333647766\",\"txnRcvdTimeStamp\":\"23-05-2025_15:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:23:20_020\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"1000_00\",\"beneName\":\"MD_Shahbaz\",\"beneIFSC\":\"KKBK0000324\",\"beneAcctNum\":\"8113603101\",\"returnBeneName\":\"MD_Shahbaz\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230953159049\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333647765\",\"txnRcvdTimeStamp\":\"23-05-2025_15:23:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:23:20_020\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"Shri_Ombir\",\"beneIFSC\":\"PUNB0742700\",\"beneAcctNum\":\"7427000100037786\",\"returnBeneName\":\"Shri_Ombir\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230954157213\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333648316\",\"txnRcvdTimeStamp\":\"23-05-2025_15:24:16_016\",\"txnUpdTimeStamp\":\"23-05-2025_15:24:23_023\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"Absar_Ansari\",\"beneIFSC\":\"UBIN0545651\",\"beneAcctNum\":\"456502011013581\",\"returnBeneName\":\"Absar_Ansari\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230955154696\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333648847\",\"txnRcvdTimeStamp\":\"23-05-2025_15:25:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:25:22_022\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"sushant_shewale\",\"beneIFSC\":\"IBKL0000585\",\"beneAcctNum\":\"0585104000121996\",\"returnBeneName\":\"sushant_shewale\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+{
+    "{\"ftxPayCallback\":{\"version\":\"1_0\",\"data\":{\"ftxID\":\"37497435\",\"apiRefNum\":\"FTXH202505230955152874\",\"custRefNum\":\"627198739\",\"bankRefId\":\"514333648846\",\"txnRcvdTimeStamp\":\"23-05-2025_15:25:15_015\",\"txnUpdTimeStamp\":\"23-05-2025_15:25:22_022\",\"txnType\":\"PAY\",\"pymtType\":\"IMPS\",\"execPymtMethod\":\"IMPS\",\"txnStatus\":\"FAILED\",\"amount\":\"500_00\",\"beneName\":\"jaiprakash_dama\",\"beneIFSC\":\"IPOS0000001\",\"beneAcctNum\":\"047610164430\",\"returnBeneName\":\"jaiprakash_dama\",\"payReqResponseCode\":": {
+        "{\"payReqCode\":\"PE:EP3012\",\"payReqSubCode\":\"cbs:901\",\"payReqDesc\":\"Insufficient balance\",\"actionCode\":\"AC_TXN_FAILED\",\"actionDesc\":\"Transaction Failed. Please check error description and action\"}": ""
+    }
+}
+[]
+[]
+[]
+[]
+[]
+[]

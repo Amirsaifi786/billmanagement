@@ -1,0 +1,935 @@
+[29-Apr-2025 05:11:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:11:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:11:38 UTC] PHP Warning:  Undefined variable $totalfailed in /home/atharvkt/public_html/admin/index.php on line 80
+[29-Apr-2025 05:11:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:11:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:11:54 UTC] PHP Warning:  Undefined array key "cid" in /home/atharvkt/public_html/admin/orders.php on line 101
+[29-Apr-2025 05:11:54 UTC] PHP Warning:  Undefined array key "sid" in /home/atharvkt/public_html/admin/orders.php on line 102
+[29-Apr-2025 05:21:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:23:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:23:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:23:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:23:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:23:25 UTC] PHP Warning:  Undefined variable $totalfailed in /home/atharvkt/public_html/admin/index.php on line 80
+[29-Apr-2025 05:23:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:23:28 UTC] PHP Warning:  Undefined array key "cid" in /home/atharvkt/public_html/admin/orders.php on line 101
+[29-Apr-2025 05:23:28 UTC] PHP Warning:  Undefined array key "sid" in /home/atharvkt/public_html/admin/orders.php on line 102
+[29-Apr-2025 05:23:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 10:53:33 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order status WHERE txn_id='23330940' AND userid='1' AND status='Approve'' at line 1 in /home/atharvkt/public_html/admin/orders.php:18
+Stack trace:
+#0 /home/atharvkt/public_html/admin/orders.php(18): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/admin/orders.php on line 18
+[29-Apr-2025 05:23:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:23:37 UTC] PHP Warning:  Undefined array key "cid" in /home/atharvkt/public_html/admin/orders.php on line 101
+[29-Apr-2025 05:23:37 UTC] PHP Warning:  Undefined array key "sid" in /home/atharvkt/public_html/admin/orders.php on line 102
+[29-Apr-2025 05:27:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:28:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 05:28:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:29:15 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[29-Apr-2025 05:29:15 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[29-Apr-2025 05:29:15 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[29-Apr-2025 10:59:15 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 10:59:15 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:29:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 05:29:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:30:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 05:30:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:32:18 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[29-Apr-2025 05:32:18 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[29-Apr-2025 05:32:18 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[29-Apr-2025 11:02:18 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 11:02:18 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:32:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 05:32:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:49:26 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[29-Apr-2025 05:49:26 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[29-Apr-2025 05:49:26 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[29-Apr-2025 11:19:26 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 11:19:26 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:49:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 05:49:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:53:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:53:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:53:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:53:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:53:38 UTC] PHP Warning:  Undefined array key "cid" in /home/atharvkt/public_html/admin/orders.php on line 101
+[29-Apr-2025 05:53:38 UTC] PHP Warning:  Undefined array key "sid" in /home/atharvkt/public_html/admin/orders.php on line 102
+[29-Apr-2025 05:53:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:53:40 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[29-Apr-2025 05:53:40 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[29-Apr-2025 05:53:40 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[29-Apr-2025 05:53:40 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[29-Apr-2025 05:53:40 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[29-Apr-2025 05:53:40 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[29-Apr-2025 05:53:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:53:43 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:53:43 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:53:43 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:53:43 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:53:43 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:53:43 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:53:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 11:23:53 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 11:23:53 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 11:23:53 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 11:23:53 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 11:23:53 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 11:23:53 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:53:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:53:55 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[29-Apr-2025 05:53:55 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[29-Apr-2025 05:53:55 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[29-Apr-2025 05:53:55 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[29-Apr-2025 05:53:55 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[29-Apr-2025 05:53:55 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[29-Apr-2025 05:54:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:54:23 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:54:23 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:54:23 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:54:23 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:54:23 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:54:23 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:55:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:55:41 UTC] PHP Warning:  Undefined variable $var in /home/atharvkt/public_html/admin/editproduct.php on line 55
+[29-Apr-2025 05:55:41 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/atharvkt/public_html/admin/editproduct.php:55
+Stack trace:
+#0 /home/atharvkt/public_html/admin/editproduct.php(55): implode()
+#1 {main}
+  thrown in /home/atharvkt/public_html/admin/editproduct.php on line 55
+[29-Apr-2025 05:55:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:55:48 UTC] PHP Warning:  Undefined variable $var in /home/atharvkt/public_html/admin/editproduct.php on line 55
+[29-Apr-2025 05:55:48 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/atharvkt/public_html/admin/editproduct.php:55
+Stack trace:
+#0 /home/atharvkt/public_html/admin/editproduct.php(55): implode()
+#1 {main}
+  thrown in /home/atharvkt/public_html/admin/editproduct.php on line 55
+[29-Apr-2025 05:55:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:55:50 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:55:50 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:55:50 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:55:50 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:55:50 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:55:50 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:55:53 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:55:53 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:55:53 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:55:53 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:55:53 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:55:53 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:55:53 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:56:13 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:56:13 UTC] PHP Warning:  Undefined variable $var in /home/atharvkt/public_html/admin/editproduct.php on line 55
+[29-Apr-2025 05:56:13 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/atharvkt/public_html/admin/editproduct.php:55
+Stack trace:
+#0 /home/atharvkt/public_html/admin/editproduct.php(55): implode()
+#1 {main}
+  thrown in /home/atharvkt/public_html/admin/editproduct.php on line 55
+[29-Apr-2025 05:56:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:56:16 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:56:16 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:56:16 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:56:16 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:56:16 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:56:16 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:56:19 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:56:19 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:56:19 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:56:19 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:56:19 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:56:19 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:56:19 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:56:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:56:27 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:56:27 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:56:27 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:56:27 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:56:27 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:56:27 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:57:05 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:57:05 UTC] PHP Warning:  Undefined variable $var in /home/atharvkt/public_html/admin/editproduct.php on line 55
+[29-Apr-2025 05:57:05 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/atharvkt/public_html/admin/editproduct.php:55
+Stack trace:
+#0 /home/atharvkt/public_html/admin/editproduct.php(55): implode()
+#1 {main}
+  thrown in /home/atharvkt/public_html/admin/editproduct.php on line 55
+[29-Apr-2025 05:57:08 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:57:08 UTC] PHP Warning:  Undefined variable $var in /home/atharvkt/public_html/admin/editproduct.php on line 55
+[29-Apr-2025 05:57:08 UTC] PHP Fatal error:  Uncaught TypeError: implode(): Argument #1 ($array) must be of type array, string given in /home/atharvkt/public_html/admin/editproduct.php:55
+Stack trace:
+#0 /home/atharvkt/public_html/admin/editproduct.php(55): implode()
+#1 {main}
+  thrown in /home/atharvkt/public_html/admin/editproduct.php on line 55
+[29-Apr-2025 05:57:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 05:57:11 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:57:11 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:57:11 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 144
+[29-Apr-2025 05:57:11 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:57:11 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 05:57:11 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/editproduct.php on line 151
+[29-Apr-2025 06:01:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:01:20 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[29-Apr-2025 06:01:20 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[29-Apr-2025 06:01:20 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[29-Apr-2025 06:01:20 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[29-Apr-2025 06:01:20 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[29-Apr-2025 06:01:20 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[29-Apr-2025 06:01:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 06:01:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:01:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:01:24 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[29-Apr-2025 06:01:24 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[29-Apr-2025 06:01:24 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[29-Apr-2025 06:01:24 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[29-Apr-2025 06:01:24 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[29-Apr-2025 06:01:24 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[29-Apr-2025 06:01:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 06:01:25 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:02:42 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[29-Apr-2025 06:02:42 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[29-Apr-2025 06:02:42 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[29-Apr-2025 11:32:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 11:32:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:02:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 06:02:43 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:08:35 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[29-Apr-2025 06:08:35 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[29-Apr-2025 06:08:35 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[29-Apr-2025 11:38:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 11:38:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:08:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 06:08:37 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:10:04 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[29-Apr-2025 06:10:04 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[29-Apr-2025 06:10:04 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[29-Apr-2025 11:40:04 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 11:40:04 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:10:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 06:10:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:13:32 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[29-Apr-2025 06:13:32 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[29-Apr-2025 06:13:32 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[29-Apr-2025 11:43:32 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 11:43:32 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:13:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 06:13:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:32:16 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[29-Apr-2025 06:32:16 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[29-Apr-2025 06:32:16 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[29-Apr-2025 12:02:16 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 12:02:16 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:32:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 06:32:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:33:15 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[29-Apr-2025 06:33:15 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[29-Apr-2025 06:33:15 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[29-Apr-2025 12:03:15 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 12:03:15 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:33:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 06:33:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:34:39 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[29-Apr-2025 06:34:39 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[29-Apr-2025 06:34:39 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[29-Apr-2025 12:04:39 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 12:04:39 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:34:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 06:34:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:35:55 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[29-Apr-2025 06:35:55 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[29-Apr-2025 06:35:55 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[29-Apr-2025 12:05:55 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 12:05:55 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 06:35:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 06:35:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 07:44:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[29-Apr-2025 07:44:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 07:44:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[29-Apr-2025 07:44:29 UTC] PHP Warning:  Undefined variable $totalfailed in /home/atharvkt/public_html/admin/index.php on line 80
+[10-May-2025 08:32:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:32:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:32:11 UTC] PHP Warning:  Undefined variable $totalfailed in /home/atharvkt/public_html/admin/index.php on line 80
+[10-May-2025 08:32:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 08:32:28 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 08:32:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:32:29 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:32:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:32:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:33:29 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 08:33:29 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 08:33:29 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:03:29 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:03:29 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:33:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:33:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:35:22 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 08:35:22 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 08:35:22 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:05:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:05:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:35:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:35:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:40:53 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 08:40:53 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 08:40:53 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:10:53 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:10:53 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:40:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:40:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:42:16 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 08:42:16 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 08:42:16 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:12:16 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:12:16 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:42:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:42:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:45:02 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 08:45:02 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 08:45:02 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:15:02 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:15:02 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:45:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:45:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:46:19 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 08:46:19 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 08:46:19 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:16:19 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:16:19 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:46:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:46:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:48:34 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 08:48:34 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 08:48:34 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:18:34 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:18:34 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:48:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:48:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:50:31 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 08:50:31 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 08:50:31 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:20:31 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:20:31 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:50:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:50:33 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:51:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:51:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:52:13 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 08:52:13 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 08:52:13 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:22:13 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:22:13 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:52:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:52:14 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:53:49 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 08:53:49 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 08:53:49 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:23:49 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:23:49 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:53:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:53:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:55:20 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 08:55:20 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 08:55:20 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:25:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:25:20 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:55:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:55:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:57:00 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 08:57:00 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 08:57:00 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:27:00 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:27:00 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 08:57:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 08:57:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 09:03:56 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 09:03:56 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 09:03:56 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:33:56 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:33:56 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 09:03:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 09:03:57 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 09:06:11 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 09:06:11 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 09:06:11 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:36:11 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:36:11 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 09:06:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 09:06:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 09:11:29 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 09:11:29 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 09:11:29 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 14:41:29 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 14:41:29 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 09:11:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 09:11:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:21:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:21:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:21:56 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:21:56 UTC] PHP Warning:  Undefined variable $totalfailed in /home/atharvkt/public_html/admin/index.php on line 80
+[10-May-2025 10:21:59 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[10-May-2025 10:21:59 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[10-May-2025 10:23:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:23:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:24:54 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 10:24:54 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 10:24:54 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 15:54:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 15:54:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:24:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:24:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:27:03 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 10:27:03 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 10:27:03 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 15:57:03 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 15:57:03 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:27:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:27:04 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:29:47 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 10:29:47 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 10:29:47 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 15:59:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 15:59:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:29:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:29:48 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:31:54 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 10:31:54 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 10:31:54 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 16:01:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 16:01:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:31:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:31:55 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:33:15 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 10:33:15 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 10:33:15 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 16:03:15 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 16:03:15 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:33:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:33:16 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:35:29 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 10:35:29 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 10:35:29 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 16:05:29 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 16:05:29 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:35:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:35:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:37:25 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 10:37:25 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 10:37:25 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 16:07:25 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 16:07:25 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:37:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:37:27 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:43:08 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 10:43:08 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 10:43:08 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 16:13:08 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 16:13:08 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:43:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:43:09 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:45:00 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 10:45:00 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 10:45:00 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 16:15:00 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 16:15:00 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:45:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:45:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:56:49 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 10:56:49 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 10:56:49 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 16:26:50 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 16:26:50 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:56:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:56:51 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:58:40 UTC] PHP Warning:  Undefined array key "subcategory" in /home/atharvkt/public_html/admin/addproduct.php on line 12
+[10-May-2025 10:58:40 UTC] PHP Warning:  Undefined array key "subcategory2" in /home/atharvkt/public_html/admin/addproduct.php on line 13
+[10-May-2025 10:58:40 UTC] PHP Warning:  Undefined array key "gender" in /home/atharvkt/public_html/admin/addproduct.php on line 18
+[10-May-2025 16:28:41 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 16:28:41 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[10-May-2025 10:58:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/config.php on line 2
+[10-May-2025 10:58:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[16-May-2025 06:27:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[16-May-2025 06:27:49 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[16-May-2025 06:27:49 UTC] PHP Warning:  Undefined variable $totalfailed in /home/atharvkt/public_html/admin/index.php on line 80
+[16-May-2025 06:27:52 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 84
+[16-May-2025 06:27:52 UTC] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/admin/products.php on line 85
+[22-Jul-2025 12:15:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[22-Jul-2025 12:15:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[31-Jul-2025 12:55:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[31-Jul-2025 12:55:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[02-Aug-2025 04:46:50 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[02-Aug-2025 04:47:18 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[02-Aug-2025 18:21:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[03-Aug-2025 02:03:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[03-Aug-2025 02:03:26 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[03-Aug-2025 02:03:30 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[03-Aug-2025 17:04:41 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[03-Aug-2025 17:04:42 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[03-Aug-2025 17:04:47 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[04-Aug-2025 14:09:34 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[04-Aug-2025 14:09:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[04-Aug-2025 14:09:39 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:34:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:34:20 UTC] PHP Warning:  Undefined variable $totalfailed in /home/atharvkt/public_html/admin/index.php on line 80
+[25-Aug-2025 06:34:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:34:24 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:35:02 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:35:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:35:06 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:35:20 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:35:21 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:35:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:35:44 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:35:46 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:35:54 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:35:58 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:36:00 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:41:03 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:41:11 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:41:12 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:41:15 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:41:17 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:41:22 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:41:23 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:41:28 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:41:32 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:41:36 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:41:38 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2
+[25-Aug-2025 06:41:40 UTC] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/atharvkt/public_html/admin/config.php on line 2) in /home/atharvkt/public_html/admin/session_check.php on line 2

@@ -1,0 +1,312 @@
+[
+    {
+        "timestamp": "2025-01-28 12:19:27",
+        "response": {
+            "request": {
+                "headers": {
+                    "API-Key": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "PostmanRuntime\/7.43.0",
+                    "Accept": "*\/*",
+                    "Cache-Control": "no-cache",
+                    "Postman-Token": "4efa58bb-7a31-4e2f-b394-78183f4d13b7",
+                    "Host": "zokenoclothes.com",
+                    "Accept-Encoding": "gzip, deflate, br",
+                    "Connection": "keep-alive",
+                    "Cookie": "PHPSESSID=vmo2rs4p11q538nd6q879kh4nn",
+                    "Content-Length": "74"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": {
+                            "PHPSESSID": "vmo2rs4p11q538nd6q879kh4nn"
+                        },
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "*\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "74",
+                            "HTTP_COOKIE": "PHPSESSID=vmo2rs4p11q538nd6q879kh4nn",
+                            "HTTP_HOST": "zokenoclothes.com",
+                            "HTTP_USER_AGENT": "PostmanRuntime\/7.43.0",
+                            "HTTP_CACHE_CONTROL": "no-cache",
+                            "HTTP_API_KEY": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                            "HTTP_POSTMAN_TOKEN": "4efa58bb-7a31-4e2f-b394-78183f4d13b7",
+                            "REDIRECT_UNIQUE_ID": "Z5h990c0wJqoSiuyJh1znQAAAeM",
+                            "REDIRECT_HTTPS": "on",
+                            "REDIRECT_SSL_TLS_SNI": "zokenoclothes.com",
+                            "REDIRECT_STATUS": "200",
+                            "UNIQUE_ID": "Z5h990c0wJqoSiuyJh1znQAAAeM",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "zokenoclothes.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "zokenoclothes.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "54.86.50.139",
+                            "DOCUMENT_ROOT": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@zokenoclothes.com",
+                            "SCRIPT_FILENAME": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html\/api\/transaction.php",
+                            "REMOTE_PORT": "14267",
+                            "REDIRECT_URL": "\/api\/transaction",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/api\/transaction",
+                            "SCRIPT_NAME": "\/api\/transaction.php",
+                            "PHP_SELF": "\/api\/transaction.php",
+                            "REQUEST_TIME_FLOAT": 1738046967.681211,
+                            "REQUEST_TIME": 1738046967
+                        }
+                    },
+                    {
+                        "amount": "100",
+                        "remark": "prod-test",
+                        "refId": "989989"
+                    }
+                ],
+                "clientIP": "54.86.50.139"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-01-28 12:19:27",
+        "response": {
+            "response": {
+                "bankResponse": {
+                    "statusCode": "500",
+                    "message": "remark: remark can only contain alphanumeric characters",
+                    "success": "false",
+                    "error": "Incorrect Data",
+                    "timestamp": "Tue Jan 28 2025 06:49:27 GMT+0000 (Coordinated Universal Time)",
+                    "data": "ERROR",
+                    "authTag": ""
+                },
+                "decrypted": ""
+            }
+        }
+    },
+    {
+        "timestamp": "2025-01-28 12:19:42",
+        "response": {
+            "request": {
+                "headers": {
+                    "API-Key": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "PostmanRuntime\/7.43.0",
+                    "Accept": "*\/*",
+                    "Cache-Control": "no-cache",
+                    "Postman-Token": "6927c16a-25c6-4bfd-ab7a-7ed7ee2ae72d",
+                    "Host": "zokenoclothes.com",
+                    "Accept-Encoding": "gzip, deflate, br",
+                    "Connection": "keep-alive",
+                    "Cookie": "PHPSESSID=vmo2rs4p11q538nd6q879kh4nn",
+                    "Content-Length": "74"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": {
+                            "PHPSESSID": "vmo2rs4p11q538nd6q879kh4nn"
+                        },
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "*\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "74",
+                            "HTTP_COOKIE": "PHPSESSID=vmo2rs4p11q538nd6q879kh4nn",
+                            "HTTP_HOST": "zokenoclothes.com",
+                            "HTTP_USER_AGENT": "PostmanRuntime\/7.43.0",
+                            "HTTP_CACHE_CONTROL": "no-cache",
+                            "HTTP_API_KEY": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                            "HTTP_POSTMAN_TOKEN": "6927c16a-25c6-4bfd-ab7a-7ed7ee2ae72d",
+                            "REDIRECT_UNIQUE_ID": "Z5h-BuDYN0eNFvZ1SMb-swAAAJQ",
+                            "REDIRECT_HTTPS": "on",
+                            "REDIRECT_SSL_TLS_SNI": "zokenoclothes.com",
+                            "REDIRECT_STATUS": "200",
+                            "UNIQUE_ID": "Z5h-BuDYN0eNFvZ1SMb-swAAAJQ",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "zokenoclothes.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "zokenoclothes.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "54.86.50.139",
+                            "DOCUMENT_ROOT": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@zokenoclothes.com",
+                            "SCRIPT_FILENAME": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html\/api\/transaction.php",
+                            "REMOTE_PORT": "2544",
+                            "REDIRECT_URL": "\/api\/transaction",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/api\/transaction",
+                            "SCRIPT_NAME": "\/api\/transaction.php",
+                            "PHP_SELF": "\/api\/transaction.php",
+                            "REQUEST_TIME_FLOAT": 1738046982.444994,
+                            "REQUEST_TIME": 1738046982
+                        }
+                    },
+                    {
+                        "amount": "100",
+                        "remark": "prod test",
+                        "refId": "989989"
+                    }
+                ],
+                "clientIP": "54.86.50.139"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-01-28 12:19:42",
+        "response": {
+            "response": {
+                "bankResponse": {
+                    "statusCode": "500",
+                    "message": "remark: remark can only contain alphanumeric characters",
+                    "success": "false",
+                    "error": "Incorrect Data",
+                    "timestamp": "Tue Jan 28 2025 06:49:42 GMT+0000 (Coordinated Universal Time)",
+                    "data": "ERROR",
+                    "authTag": ""
+                },
+                "decrypted": ""
+            }
+        }
+    },
+    {
+        "timestamp": "2025-01-28 12:19:50",
+        "response": {
+            "request": {
+                "headers": {
+                    "API-Key": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "PostmanRuntime\/7.43.0",
+                    "Accept": "*\/*",
+                    "Cache-Control": "no-cache",
+                    "Postman-Token": "fce7f0ff-9e83-4724-afa6-210033e291f3",
+                    "Host": "zokenoclothes.com",
+                    "Accept-Encoding": "gzip, deflate, br",
+                    "Connection": "keep-alive",
+                    "Cookie": "PHPSESSID=vmo2rs4p11q538nd6q879kh4nn",
+                    "Content-Length": "73"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": {
+                            "PHPSESSID": "vmo2rs4p11q538nd6q879kh4nn"
+                        },
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "*\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "73",
+                            "HTTP_COOKIE": "PHPSESSID=vmo2rs4p11q538nd6q879kh4nn",
+                            "HTTP_HOST": "zokenoclothes.com",
+                            "HTTP_USER_AGENT": "PostmanRuntime\/7.43.0",
+                            "HTTP_CACHE_CONTROL": "no-cache",
+                            "HTTP_API_KEY": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                            "HTTP_POSTMAN_TOKEN": "fce7f0ff-9e83-4724-afa6-210033e291f3",
+                            "REDIRECT_UNIQUE_ID": "Z5h-DhHvT1_GDd8U3TnAGQAAAFI",
+                            "REDIRECT_HTTPS": "on",
+                            "REDIRECT_SSL_TLS_SNI": "zokenoclothes.com",
+                            "REDIRECT_STATUS": "200",
+                            "UNIQUE_ID": "Z5h-DhHvT1_GDd8U3TnAGQAAAFI",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "zokenoclothes.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "zokenoclothes.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "54.86.50.139",
+                            "DOCUMENT_ROOT": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@zokenoclothes.com",
+                            "SCRIPT_FILENAME": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html\/api\/transaction.php",
+                            "REMOTE_PORT": "64090",
+                            "REDIRECT_URL": "\/api\/transaction",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/api\/transaction",
+                            "SCRIPT_NAME": "\/api\/transaction.php",
+                            "PHP_SELF": "\/api\/transaction.php",
+                            "REQUEST_TIME_FLOAT": 1738046990.629106,
+                            "REQUEST_TIME": 1738046990
+                        }
+                    },
+                    {
+                        "amount": "100",
+                        "remark": "prodtest",
+                        "refId": "989989"
+                    }
+                ],
+                "clientIP": "54.86.50.139"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-01-28 12:19:50",
+        "response": {
+            "response": {
+                "bankResponse": {
+                    "statusCode": "200",
+                    "message": "INTENT generated successfully",
+                    "success": "true",
+                    "error": "",
+                    "timestamp": "Tue Jan 28 2025 06:49:50 GMT+0000 (Coordinated Universal Time)",
+                    "data": "vzs9QXlNHQ8UNsSO9w2GvBda6B287JAprTV9Ftd8yNGeqsFUr8ZMoB\/9ZvpCs8WtxTDWtSmxd3Mm9vixwdZ5wt3z5BjFgil8NH5F2BfvUN4j\/XLAq\/sQ868yxfzMspr+OVK4kLDnZeM\/zNUHk+Qxlef+Z861ZxfM\/EageJpKxK0zyE0Lyx4HSzzTNm2ygE3EYWImDWJV8yg4dG45EJRltIHLiU0Gwr\/EpsMW\/gfR9HHsBG5J6kJuhy4g58MF8zqIYlsdZF4uRU3LvcEJ2nsUBbv7KsLYReYwyXWnOuAG8jpPK+nNjS8wUrJwXo9h8+KFFCW80kOGS2aRneU8o35R3w9Lxg1lzOlRGJsdDw+IOfBplFXULdl7Oq\/uVHl6g6s4PJ\/vI0O3X1CAF+AbwwzZo7ASOgDljQvUSCy7LjiG6XuZ8zGJpBPw7rNXoiUbIZvftITMvvLdrI67BgiImT4wXGRVHHQlNLlLhOcfIqfZWr1k3kHeVV\/xtujOt\/\/mb3o9RuWW5VQp+UtLZx\/8ZOq9odP4FmQjxfLaHud3BIu9HHgsYf+G924uZweyFI2XCAwI7icv5ebP7ZUAjac=",
+                    "authTag": "sYOs2HcJeKZmSNC\/g7+kWg=="
+                },
+                "decrypted": {
+                    "status": "INITIATED",
+                    "upiIntentString": "upi:\/\/pay?pa=neo.zokenoecom@finobank&pn=ZOKENO%20PRIVATE&mc=5611&tr=NKFV257v4zkVGM8NEZrQketruLi&tn=prodtest&am=100&cu=INR&mode=05&orgid=187064&catagory=01&url=https:\/\/www.finobank.com\/&sign=MEYCIQCtxGHYnfST\/wvpGm7Sa0M+XjaWo\/7\/Se8AUnDm8htU8AIhAOpF4vOtKCmI2zBhU87OBNvoDb4PeSE+n11A8FkNVhC8",
+                    "amount": 100,
+                    "transactionId": "NKFV257v4zkVGM8NEZrQketruLi",
+                    "orderId": "NKOvjAphBoLiAt2ZczAa2GH3Y",
+                    "refId": "989989"
+                }
+            }
+        }
+    }
+]

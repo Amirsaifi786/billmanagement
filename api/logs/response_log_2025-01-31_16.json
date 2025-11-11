@@ -1,0 +1,320 @@
+[
+    {
+        "timestamp": "2025-01-31 16:06:52",
+        "response": {
+            "request": {
+                "headers": {
+                    "API-Key": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "PostmanRuntime\/7.43.0",
+                    "Accept": "*\/*",
+                    "Postman-Token": "6b62712c-d370-4a9f-ac5c-ce46033f878e",
+                    "Host": "meticulouslycomputer.com",
+                    "Accept-Encoding": "gzip, deflate, br",
+                    "Connection": "keep-alive",
+                    "Content-Length": "71",
+                    "Cookie": "PHPSESSID=udi954ect1cvbhab701duc2csc"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": {
+                            "PHPSESSID": "udi954ect1cvbhab701duc2csc"
+                        },
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "*\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "71",
+                            "HTTP_COOKIE": "PHPSESSID=udi954ect1cvbhab701duc2csc",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "PostmanRuntime\/7.43.0",
+                            "HTTP_API_KEY": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                            "HTTP_POSTMAN_TOKEN": "6b62712c-d370-4a9f-ac5c-ce46033f878e",
+                            "REDIRECT_UNIQUE_ID": "Z5ynw03tn_A-IPWvGBSb-gAAAUk",
+                            "REDIRECT_HTTPS": "on",
+                            "REDIRECT_SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "REDIRECT_STATUS": "200",
+                            "UNIQUE_ID": "Z5ynw03tn_A-IPWvGBSb-gAAAUk",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "27.100.12.121",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/api\/transaction.php",
+                            "REMOTE_PORT": "50396",
+                            "REDIRECT_URL": "\/api\/transaction",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/api\/transaction",
+                            "SCRIPT_NAME": "\/api\/transaction.php",
+                            "PHP_SELF": "\/api\/transaction.php",
+                            "REQUEST_TIME_FLOAT": 1738319812.146261,
+                            "REQUEST_TIME": 1738319812
+                        }
+                    },
+                    {
+                        "amount": "100",
+                        "remark": "product",
+                        "refId": "98765"
+                    }
+                ],
+                "clientIP": "27.100.12.121"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-01-31 16:06:52",
+        "response": {
+            "response": {
+                "bankResponse": {
+                    "statusCode": "200",
+                    "message": "INTENT generated successfully",
+                    "success": "true",
+                    "error": "",
+                    "timestamp": "Fri Jan 31 2025 10:36:52 GMT+0000 (Coordinated Universal Time)",
+                    "data": "oNvTf9SWHHaHmFMmBFlDrqk1tG16vmRmW1GbTMooxxIxYDLwREVoAZwqs7IKs8hXlL\/NTOUTa5fdnPQskfyVuHj9MdgQUCtep21AD1\/t7YCk5xZ2NRN4ViYu0vBtZEzd9m9aFnQL3sBFWXZjumogsSE\/CwxyjcUAx6\/627PnnoIUD5wQlYmF+g7vx42xMo5ml\/EWXuJIzLwLk1UDpHQ\/Y1y0zI1SPkvlhrWlxyXRJ8II8FenVIqf52sDNWsllwrCwmlcT4vgAFqiv2iiRYHmy4JF5O+t8wRm7C25GLw0LTe5\/ICjMerZuCNMvX1hDWyjF8ORgI+oTJMPFvuLIZTQfAC\/BxtquLZfltSb4uCK8IKhHKIJl6VsYanoPFQf2jpF\/6+O6ZBZvFhEJ6icKk3tbcjSpky3viTg75C9qXJEVf7bD7f4IjwNkQt+UD6Cb+hBCkTdU25o39JHDfj173UzJQv1HI+e4Q9yueCuRCVfdGJ3MDdEfGuNqXqn9AXnP\/xgOZTX9pb6azaNMB5Fj7e4\/1z69tqg\/o80rRatYRBtTEFLa3XSXP5uVQjZ77UZ1s7Tb\/g=",
+                    "authTag": "ot20EoH6Cj7rcRqgxlffjg=="
+                },
+                "decrypted": {
+                    "status": "INITIATED",
+                    "upiIntentString": "upi:\/\/pay?pa=neo.nktest@finobank&pn=Neokred%20Testing&mc=4722&tr=NKFV23p3BdRFWjsS5WxLV9pPgp1&tn=product&am=1&cu=INR&mode=05&orgid=187064&catagory=01&url=https:\/\/www.finobank.com\/&sign=MEQCIFt6DtPHThR10Jwmwmqu8xFM2XvtOrJ358bEgQYna9S4AiAG6+gYeXAQH2uW2+WbHDUzTE196mUVM1I2U6oKQOivQw==",
+                    "amount": 1,
+                    "transactionId": "NKFV23p3BdRFWjsS5WxLV9pPgp1",
+                    "orderId": "NKO18gbGKUaafdMBasXe7LvNN",
+                    "refId": "98765"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-01-31 16:06:57",
+        "response": {
+            "request": {
+                "headers": {
+                    "API-Key": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "PostmanRuntime\/7.43.0",
+                    "Accept": "*\/*",
+                    "Postman-Token": "8a37381c-73dd-4d66-8862-8daa157b7617",
+                    "Host": "meticulouslycomputer.com",
+                    "Accept-Encoding": "gzip, deflate, br",
+                    "Connection": "keep-alive",
+                    "Content-Length": "71",
+                    "Cookie": "PHPSESSID=udi954ect1cvbhab701duc2csc"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": {
+                            "PHPSESSID": "udi954ect1cvbhab701duc2csc"
+                        },
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "*\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "71",
+                            "HTTP_COOKIE": "PHPSESSID=udi954ect1cvbhab701duc2csc",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "PostmanRuntime\/7.43.0",
+                            "HTTP_API_KEY": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                            "HTTP_POSTMAN_TOKEN": "8a37381c-73dd-4d66-8862-8daa157b7617",
+                            "REDIRECT_UNIQUE_ID": "Z5ynyc-ain_bSbBZKYPamQAAAI4",
+                            "REDIRECT_HTTPS": "on",
+                            "REDIRECT_SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "REDIRECT_STATUS": "200",
+                            "UNIQUE_ID": "Z5ynyc-ain_bSbBZKYPamQAAAI4",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "27.100.12.121",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/api\/transaction.php",
+                            "REMOTE_PORT": "50407",
+                            "REDIRECT_URL": "\/api\/transaction",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/api\/transaction",
+                            "SCRIPT_NAME": "\/api\/transaction.php",
+                            "PHP_SELF": "\/api\/transaction.php",
+                            "REQUEST_TIME_FLOAT": 1738319817.448159,
+                            "REQUEST_TIME": 1738319817
+                        }
+                    },
+                    {
+                        "amount": "100",
+                        "remark": "product",
+                        "refId": "98765"
+                    }
+                ],
+                "clientIP": "27.100.12.121"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-01-31 16:06:57",
+        "response": {
+            "response": {
+                "bankResponse": {
+                    "statusCode": "200",
+                    "message": "INTENT generated successfully",
+                    "success": "true",
+                    "error": "",
+                    "timestamp": "Fri Jan 31 2025 10:36:57 GMT+0000 (Coordinated Universal Time)",
+                    "data": "oNvTf9SWHHaHmFMmBFlDrqk1tG16vmRmW1GbTMooxxIxYDLwREVoAZwqs7IKs8hXlL\/NTOUTa5fdnPQskfyVuHj9MdgQUCtep21AD1\/t7YCk5xZ2NRN4ViYu0vBtZEzd9m9aFnQL3sBFWXZjumog9hdtOB5NuvYiwaiHvoH4hcowD8gz9ImF+g7vx42xMo5ml\/EWXuJIzLwLk1UDpHQ\/Y1y0zI1SPkvlhrWlxyXRJ8II8FenVIqf52sDNWsllwrCwmlcT4vgAFqiv2iiRYHmy4JF5O+t8wRm7C25GLw0LTe5\/ICrMerOiCZ5p0sfOn2eZ4Sej4OOS4RNfcaiX+35bDa8ABIItOkJo8vh\/uC6nKf9CbwBuNIIVrTAV2QD0VF5\/tP8x8NEtERKP7iZeT+5etLM4S7Tr1vW06jKsEFzW5fSD7f4IjwNkQt+UD6Cb+hBCkTdU25o39JHDfj173UzJQv1HI\/Z111Bq9+ZdwdZcx8SAihfNE+N\/VnG9AXnP\/xgOZTX9pb6azaNMEQ3pOG95UHoxsuKgIkNm3exFxsjVH1La3XSXP5uVQjZ77UZ1s7Tb\/g=",
+                    "authTag": "vofgVNirUwoqwVaPJ9CcEw=="
+                },
+                "decrypted": {
+                    "status": "INITIATED",
+                    "upiIntentString": "upi:\/\/pay?pa=neo.nktest@finobank&pn=Neokred%20Testing&mc=4722&tr=NKFV2tFaqvmqdHuTH2JSMqTP3SP&tn=product&am=1&cu=INR&mode=05&orgid=187064&catagory=01&url=https:\/\/www.finobank.com\/&sign=MEYCIQD3qnf6cyoAwExaQjf7SEo3KqfBLuCQ9g4px+EnQUvhTwIhAOPDM3qMCYIVNYy1ULItLU4jD9BLSv+VDIYwi8pEfyT4",
+                    "amount": 1,
+                    "transactionId": "NKFV2tFaqvmqdHuTH2JSMqTP3SP",
+                    "orderId": "NKOkJL4BQHsQwN3DXE9yAG8Vr",
+                    "refId": "98765"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-01-31 16:12:46",
+        "response": {
+            "request": {
+                "headers": {
+                    "API-Key": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "PostmanRuntime\/7.43.0",
+                    "Accept": "*\/*",
+                    "Postman-Token": "7f651e85-486e-4c96-a786-6b9b7b033880",
+                    "Host": "meticulouslycomputer.com",
+                    "Accept-Encoding": "gzip, deflate, br",
+                    "Connection": "keep-alive",
+                    "Content-Length": "71",
+                    "Cookie": "PHPSESSID=udi954ect1cvbhab701duc2csc"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": {
+                            "PHPSESSID": "udi954ect1cvbhab701duc2csc"
+                        },
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "*\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "71",
+                            "HTTP_COOKIE": "PHPSESSID=udi954ect1cvbhab701duc2csc",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "PostmanRuntime\/7.43.0",
+                            "HTTP_API_KEY": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                            "HTTP_POSTMAN_TOKEN": "7f651e85-486e-4c96-a786-6b9b7b033880",
+                            "REDIRECT_UNIQUE_ID": "Z5ypJc-ain_bSbBZKYPddAAAAKY",
+                            "REDIRECT_HTTPS": "on",
+                            "REDIRECT_SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "REDIRECT_STATUS": "200",
+                            "UNIQUE_ID": "Z5ypJc-ain_bSbBZKYPddAAAAKY",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "27.100.12.121",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/api\/transaction.php",
+                            "REMOTE_PORT": "50618",
+                            "REDIRECT_URL": "\/api\/transaction",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/api\/transaction",
+                            "SCRIPT_NAME": "\/api\/transaction.php",
+                            "PHP_SELF": "\/api\/transaction.php",
+                            "REQUEST_TIME_FLOAT": 1738320166.182778,
+                            "REQUEST_TIME": 1738320166
+                        }
+                    },
+                    {
+                        "amount": "100",
+                        "remark": "product",
+                        "refId": "98765"
+                    }
+                ],
+                "clientIP": "27.100.12.121"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-01-31 16:12:46",
+        "response": {
+            "response": {
+                "bankResponse": {
+                    "statusCode": "200",
+                    "message": "INTENT generated successfully",
+                    "success": "true",
+                    "error": "",
+                    "timestamp": "Fri Jan 31 2025 10:42:46 GMT+0000 (Coordinated Universal Time)",
+                    "data": "oNvTf9SWHHaHmFMmBFlDrqk1tG16vmRmW1GbTMooxxIxYDLwREVoAZwqs7IKs8hXlL\/NTOUTa5fdnPQskfyVuHj9MdgQUCtep21AD1\/t7YCk5xZ2NRN4ViYu0vBtZEzd9m9aFnQL3sBFWXZjumog4QM9ARkWm9Y+grD344\/JsMgQPs466omF+g7vx42xMo5ml\/EWXuJIzLwLk1UDpHQ\/Y1y0zI1SPkvlhrWlxyXRJ8II8FenVIqf52sDNWsllwrCwmlcT4vgAFqiv2iiRYHmy4JF5O+t8wRm7C25GLw0LTe5\/ICnMerOjyJ7hhxaMlfAQ7C8prWXdJU9e6z0IO\/6Yh+\/EGc+w7h8md6u4du\/r4vfa4oBt\/E0QZ3gBl4D1kBx\/\/mT76B5yFpVR5rVfVCvVdLm9ny1gmr48JWW9S9hZorbD7f4IjwNkQt+UD6Cb+hBCkTdU25o39JHDfj173UzJQv1HI\/Oww14rIS4Vxsaa29PDBlqNm+8+1DY9AXnP\/xgOZTX9pb6azaNMEcYopa+zD7dzuz82os0jCXwHA98d0tLa3XSXP5uVQjZ77UZ1s7Tb\/g=",
+                    "authTag": "\/5\/Uyo+oO1CMnJZkldoDLw=="
+                },
+                "decrypted": {
+                    "status": "INITIATED",
+                    "upiIntentString": "upi:\/\/pay?pa=neo.nktest@finobank&pn=Neokred%20Testing&mc=4722&tr=NKFV2cR1Hq6PDT6L8oDbxsta5ZN&tn=product&am=1&cu=INR&mode=05&orgid=187064&catagory=01&url=https:\/\/www.finobank.com\/&sign=MEUCIQC7sO1skS1eCgQWHUwGU\/9LIrhkOe6gN6AJmdZUTfZJ6AIgbsGmmbKMDHAWd6QRh0Wk4wxn+\/mLyay0ixwTTd5+tDI=",
+                    "amount": 1,
+                    "transactionId": "NKFV2cR1Hq6PDT6L8oDbxsta5ZN",
+                    "orderId": "NKOheJCAx7FYP8iFaRk8JSguD",
+                    "refId": "98765"
+                }
+            }
+        }
+    }
+]

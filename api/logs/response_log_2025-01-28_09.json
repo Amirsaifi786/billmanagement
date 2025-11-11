@@ -1,0 +1,108 @@
+[
+    {
+        "timestamp": "2025-01-28 09:01:08",
+        "response": {
+            "request": {
+                "headers": {
+                    "API-Key": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "PostmanRuntime\/7.43.0",
+                    "Accept": "*\/*",
+                    "Postman-Token": "4cf43525-99e1-49ef-8384-39940908f51d",
+                    "Host": "zokenoclothes.com",
+                    "Accept-Encoding": "gzip, deflate, br",
+                    "Connection": "keep-alive",
+                    "Content-Length": "74",
+                    "Cookie": "PHPSESSID=uccvf0c6e3borme8ve7lonvbll"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": {
+                            "PHPSESSID": "uccvf0c6e3borme8ve7lonvbll"
+                        },
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "*\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "74",
+                            "HTTP_COOKIE": "PHPSESSID=uccvf0c6e3borme8ve7lonvbll",
+                            "HTTP_HOST": "zokenoclothes.com",
+                            "HTTP_USER_AGENT": "PostmanRuntime\/7.43.0",
+                            "HTTP_API_KEY": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                            "HTTP_POSTMAN_TOKEN": "4cf43525-99e1-49ef-8384-39940908f51d",
+                            "REDIRECT_UNIQUE_ID": "Z5hPfNba44JGTkY06SAXSwAAAIM",
+                            "REDIRECT_HTTPS": "on",
+                            "REDIRECT_SSL_TLS_SNI": "zokenoclothes.com",
+                            "REDIRECT_STATUS": "200",
+                            "UNIQUE_ID": "Z5hPfNba44JGTkY06SAXSwAAAIM",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "zokenoclothes.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "zokenoclothes.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "122.161.50.24",
+                            "DOCUMENT_ROOT": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@zokenoclothes.com",
+                            "SCRIPT_FILENAME": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html\/api\/transaction.php",
+                            "REMOTE_PORT": "26069",
+                            "REDIRECT_URL": "\/api\/transaction",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/api\/transaction",
+                            "SCRIPT_NAME": "\/api\/transaction.php",
+                            "PHP_SELF": "\/api\/transaction.php",
+                            "REQUEST_TIME_FLOAT": 1738035068.574959,
+                            "REQUEST_TIME": 1738035068
+                        }
+                    },
+                    {
+                        "amount": "1220",
+                        "remark": "test",
+                        "refId": "1234dfdf35"
+                    }
+                ],
+                "clientIP": "122.161.50.24"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-01-28 09:01:08",
+        "response": {
+            "response": {
+                "bankResponse": {
+                    "statusCode": "200",
+                    "message": "INTENT generated successfully",
+                    "success": "true",
+                    "error": "",
+                    "timestamp": "Tue Jan 28 2025 03:31:08 GMT+0000 (Coordinated Universal Time)",
+                    "data": "dndFL4JUGDc9q6op7jExVpGAGJbwps2avi8t7w2IfsqcXYTK7cUZJO5Xr05CWh+cQfbMJwonIHjP7buxAn+zNJcnAkCXCtST9fhk6E1GA4w7snF7TNYoNpA6gKPAuQHXaR1YyT505QzBynk0Ci32H0tha11emtX+WDjgSjWKKGFZwP5GxCSaqynhzxH+rB1YzCDvbv5QPLBmwxfCiGJR0VbfEFzNZ2Tj9d\/BCLjjSs1DHRAvH1ocUR6hrS8Yft9ASH14UEVuhK4rL9Yhbo38ao45nTb+7DtuhmzMMwnew8YxLq\/KZuzR23VYULPF10OdCiyL74jhyYb6U8SDmCuvghCpAfUTesLeFS3GDbiXH3tnXD1qWO\/4e9xqn5YWsqxf1okSq3tUJIy24ffvybiDq0qDPvnb2TKOBYtVKNeTODTRsPq0hmsYtJjreIjCFrkpabn9oZy4NEllKzapT3fhdEpH1Ri5d0UKD53uArWn\/9UzLPXrrhZx3K2Gtwq5JfcbZW2k7PwXf2CgobgeOgWkSd+aCCAXcxno6HHFCT\/ULKmnbFhyivgl63e0OrjW9TwBJVOc0Q==",
+                    "authTag": "ZaGekKipls3\/+5ZVpsHAKA=="
+                },
+                "decrypted": {
+                    "status": "INITIATED",
+                    "upiIntentString": "upi:\/\/pay?pa=neo.nktest@finobank&pn=Neokred%20Testing&mc=4722&tr=NKFV2q4fQhHQV2iJkeAfWLKtG4g&tn=test&am=1&cu=INR&mode=05&orgid=187064&catagory=01&url=https:\/\/www.finobank.com\/&sign=MEUCIQDvOknkKXer5nBt9y2\/bZpPKoB0P74+Q85iYL\/SjXnekwIgOHKHH+NH2n2o6NHy59hElm5q7Yjf00iH\/NE7i3OqVug=",
+                    "amount": 1,
+                    "transactionId": "NKFV2q4fQhHQV2iJkeAfWLKtG4g",
+                    "orderId": "NKOeCPDh1pJ4Hdovw5ym9uk1w",
+                    "refId": "1234dfdf35"
+                }
+            }
+        }
+    }
+]

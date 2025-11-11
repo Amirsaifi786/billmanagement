@@ -1,0 +1,52 @@
+<?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+$username='37497435';
+$password='I7y3zf97AW';
+$getStatusRefNo=$_POST['apiRefNum'];
+$bankRefId=$_POST['bankRefId'];
+$sendJsonData = [
+    "ftxGetStatus"=> [
+        "header"=> [
+            "version"=> "02.00",
+            "ftxID"=> "37497435",
+            "custID"=> "37497435",
+            "getStatusRefNo"=> $getStatusRefNo
+        ],
+        "payload"=> [	
+            "bankRefId"=> $bankRefId
+        ]
+    ]
+];
+$sendJsonData = json_encode($sendJsonData);
+// $url = "https://uatskyway.yesbank.in/app/uat/APIBankingService/FTx/Payments/GetStatus"; // Replace with your API URL
+$url="https://skyway.yesbank.in/app/live/APIBankingService/FTx/Payments/GetStatus";
+$headers = [
+    'X-IBM-Client-Id:d995f0ff25aaffd25a38752311517652',
+    'X-IBM-Client-Secret:348bb03020c910f6e0a8cc4be0cb96ef',
+    'ftxID:37497435',
+    'Content-Type:application/json'
+];
+
+$ch = curl_init();  
+curl_setopt($ch, CURLOPT_URL, $url);
+curl_setopt($ch, CURLOPT_PORT , 443);
+curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+curl_setopt($ch, CURLOPT_USERPWD, "$username:$password");
+curl_setopt($ch, CURLOPT_POST, true);
+curl_setopt($ch, CURLOPT_POSTFIELDS, $sendJsonData);
+curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
+curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, true);
+curl_setopt($ch, CURLOPT_SSLCERT, 'athtech.crt');
+curl_setopt($ch, CURLOPT_SSLKEY, 'athtech.key');
+
+// Execute cURL request
+$response = curl_exec($ch);
+if (curl_errno($ch)) {
+    echo "cURL error: " . curl_error($ch);
+} else {
+    echo $response;
+}
+curl_close($ch);
+?>

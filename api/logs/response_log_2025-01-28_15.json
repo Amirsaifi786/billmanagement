@@ -1,0 +1,106 @@
+[
+    {
+        "timestamp": "2025-01-28 15:31:55",
+        "response": {
+            "request": {
+                "headers": {
+                    "Accept": "text\/html,application\/json,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+                    "User-Agent": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/75.0.3770.142 Safari\/537.36 Hutool",
+                    "Accept-Encoding": "gzip, deflate",
+                    "Content-Length": "71",
+                    "Content-Type": "application\/json",
+                    "API-Key": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                    "Cache-Control": "no-cache",
+                    "Pragma": "no-cache",
+                    "Host": "zokenoclothes.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "text\/html,application\/json,application\/xhtml+xml,application\/xml;q=0.9,*\/*;q=0.8",
+                            "HTTP_ACCEPT_ENCODING": "gzip, deflate",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "71",
+                            "HTTP_HOST": "zokenoclothes.com",
+                            "HTTP_PRAGMA": "no-cache",
+                            "HTTP_USER_AGENT": "Mozilla\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\/537.36 (KHTML, like Gecko) Chrome\/75.0.3770.142 Safari\/537.36 Hutool",
+                            "HTTP_CACHE_CONTROL": "no-cache",
+                            "HTTP_API_KEY": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                            "REDIRECT_UNIQUE_ID": "Z5irE8-Bu4XQ0-i-XVs1CgAAASQ",
+                            "REDIRECT_HTTPS": "on",
+                            "REDIRECT_SSL_TLS_SNI": "zokenoclothes.com",
+                            "REDIRECT_STATUS": "200",
+                            "UNIQUE_ID": "Z5irE8-Bu4XQ0-i-XVs1CgAAASQ",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "zokenoclothes.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "zokenoclothes.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "139.144.119.156",
+                            "DOCUMENT_ROOT": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@zokenoclothes.com",
+                            "SCRIPT_FILENAME": "\/home\/zokenocl\/domains\/zokenoclothes.com\/private_html\/api\/transaction.php",
+                            "REMOTE_PORT": "40986",
+                            "REDIRECT_URL": "\/api\/transaction",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/api\/transaction",
+                            "SCRIPT_NAME": "\/api\/transaction.php",
+                            "PHP_SELF": "\/api\/transaction.php",
+                            "REQUEST_TIME_FLOAT": 1738058515.643461,
+                            "REQUEST_TIME": 1738058515
+                        }
+                    },
+                    {
+                        "amount": "101",
+                        "remark": "x7ijIou00ra4ODB5",
+                        "refId": "x7ijIou00ra4ODB5"
+                    }
+                ],
+                "clientIP": "139.144.119.156"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-01-28 15:31:55",
+        "response": {
+            "response": {
+                "bankResponse": {
+                    "statusCode": "200",
+                    "message": "INTENT generated successfully",
+                    "success": "true",
+                    "error": "",
+                    "timestamp": "Tue Jan 28 2025 10:01:55 GMT+0000 (Coordinated Universal Time)",
+                    "data": "vzs9QXlNHQ8UNsSO9w2GvBda6B287JAprTV9Ftd8yNGeqsFUr8ZMoB\/9ZvpCs8WtxTDWtSmxd3Mm9vixwdZ5wt3z5BjFgil8NH5F2BfvUN4j\/XLAq\/sQ868yxfzMspr+OVK4kLDnZeM\/zNUHk+Qxlef+ZJiIOQ\/yyTnVL5g+p4pa+hAtyBt8cDzTNm26xUvKXGggSXRG\/yFGABwqVYA1wP6pngYK0+ew2KQW\/BrS+CjhAHARqBMzxXBwq5VSqnzXPApYI0wzWwme+YRf3DNXF6T4KZzNFqdw3GO+f6gM8zgCbPTPxCJictgPbq9X3quwFjSm9XSRLx\/RjOUujy5Y+XJ2vSV22vpEHMF4LAvmTNddv2+LKudURLrIelBwnK5pG5nzKVC7ewTIDec3n2Hy2JUBNgPvjynicjGmLCb6hwSFqxabqwOnp8gd9TFDIZOJupyc462E4I7rXVfLyXFmQXlaO2Nmbe9soM8AdLDUDsdV80GrLgb0mdDphay7dER5M9mMkE4U+l8ZR3S0ZL\/ti\/3FKWpAj7jWOuR3d8bqDm4dVvfA9VJceFPQc4WaIAgf7jEvrruQnckblfhdP+I8u3OHY4yXo59r6boiwIY=",
+                    "authTag": "u9SF9+If1cXYKc7JNkp2Og=="
+                },
+                "decrypted": {
+                    "status": "INITIATED",
+                    "upiIntentString": "upi:\/\/pay?pa=neo.zokenoecom@finobank&pn=ZOKENO%20PRIVATE&mc=5611&tr=NKFV26aKjbUc88oL19U8Y8Rqp7R&tn=x7ijIou00ra4ODB5&am=101&cu=INR&mode=05&orgid=187064&catagory=01&url=https:\/\/www.finobank.com\/&sign=MEYCIQD0V7gpUAgZGMpPpywDz+mJpaV4rZoWgoJzFToFhEoCeQIhAPamf2XoydZd9kecGh6rSiX6l\/M\/GZ3iDgSokWh6y7uf",
+                    "amount": 101,
+                    "transactionId": "NKFV26aKjbUc88oL19U8Y8Rqp7R",
+                    "orderId": "NKOi29eHuKvitEtAFvNEzhNMs",
+                    "refId": "x7ijIou00ra4ODB5"
+                }
+            }
+        }
+    }
+]

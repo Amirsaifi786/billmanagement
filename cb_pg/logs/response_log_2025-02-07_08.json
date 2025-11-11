@@ -1,0 +1,79 @@
+[
+    {
+        "timestamp": "2025-02-07 08:40:23",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Accept": "application\/json, text\/plain, *\/*",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "axios\/1.7.9",
+                    "Content-Length": "508",
+                    "Accept-Encoding": "gzip, compress, deflate, br",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "keep-alive"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "application\/json, text\/plain, *\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, compress, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "508",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "axios\/1.7.9",
+                            "UNIQUE_ID": "Z6V5nycpsHPlz9U4VEezcwAAAAA",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "15.206.98.227",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "39495",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1738897823.65821,
+                            "REQUEST_TIME": 1738897823
+                        }
+                    },
+                    {
+                        "data": "o4CQ8CvsIsF6hKGCuT0OVBd\/0FdErGovxTsaVJYdz8mVlx2tYu566B+8lxYGzvyZsUH9q3+ODTa9dAth5TRVxuIL1YYXvi6YmDNanSX0UAP6taTUxLLz7yR3Y93htiV+xM5WsKVDVy+AzOev6kvEmXZie3sLirsR\/rg4YAHgA0nQ7kLd1puTGBgNpT2LzDKjur3BuKo4JhNxQOJ5TxkhbqXRKPEL9WpUXUKkDpZypSqpFvC2c9+lHsGknDPAI0jVp6khOy74nQhDL96vpfBbAIudKZwBiuX0gWXKaAzhK0eiQEBqK2Qq9tf1MszN2Fwrabd+ZqMihkktfsrMMma6OoGA82zj69tM05M0iJWQj7Fabar9AW8szNZgRJH1occ9L5TZ9phP4BPjwCMcR5xOqFAYnfiqnU8rFWaQkJv6urznpTLxOEsztlqxzeKppTz4ksGNnuQPYA==",
+                        "authTag": "8z72xV2rFyMVQS0E5BHo6g=="
+                    }
+                ],
+                "clientIP": "15.206.98.227"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-07 08:40:23",
+        "response": {
+            "response from callback": {
+                "success": true,
+                "message": "request_received"
+            }
+        }
+    }
+]

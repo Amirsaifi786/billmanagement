@@ -1,0 +1,280 @@
+[
+    {
+        "timestamp": "2025-02-05 10:37:34",
+        "response": {
+            "request": {
+                "headers": {
+                    "API-Key": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                    "Content-Type": "application\/json",
+                    "User-Agent": "PostmanRuntime\/7.43.0",
+                    "Accept": "*\/*",
+                    "Cache-Control": "no-cache",
+                    "Postman-Token": "9958f25d-60c1-412b-b794-530d18418bed",
+                    "Host": "meticulouslycomputer.com",
+                    "Accept-Encoding": "gzip, deflate, br",
+                    "Connection": "keep-alive",
+                    "Content-Length": "73"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "*\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip, deflate, br",
+                            "HTTP_CONNECTION": "keep-alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "73",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "PostmanRuntime\/7.43.0",
+                            "HTTP_CACHE_CONTROL": "no-cache",
+                            "HTTP_API_KEY": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                            "HTTP_POSTMAN_TOKEN": "9958f25d-60c1-412b-b794-530d18418bed",
+                            "REDIRECT_UNIQUE_ID": "Z6LyFqydwAIlo-gHL7RJcQAAAeo",
+                            "REDIRECT_HTTPS": "on",
+                            "REDIRECT_SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "REDIRECT_STATUS": "200",
+                            "UNIQUE_ID": "Z6LyFqydwAIlo-gHL7RJcQAAAeo",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "54.86.50.139",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/api\/transaction.php",
+                            "REMOTE_PORT": "8671",
+                            "REDIRECT_URL": "\/api\/transaction",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/api\/transaction",
+                            "SCRIPT_NAME": "\/api\/transaction.php",
+                            "PHP_SELF": "\/api\/transaction.php",
+                            "REQUEST_TIME_FLOAT": 1738732054.506811,
+                            "REQUEST_TIME": 1738732054
+                        }
+                    },
+                    {
+                        "amount": "100",
+                        "remark": "test",
+                        "refId": "8763473633"
+                    }
+                ],
+                "clientIP": "54.86.50.139"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-05 10:37:34",
+        "response": {
+            "response": {
+                "bankResponse": {
+                    "statusCode": "200",
+                    "message": "INTENT generated successfully",
+                    "success": "true",
+                    "error": "",
+                    "timestamp": "Wed Feb 05 2025 05:07:34 GMT+0000 (Coordinated Universal Time)",
+                    "data": "o4CW9CPRM5BinMWKukRrVx1toyYosQwUghMbf6gglo3+1FecP90c8BHrhhJTlL2d8gLg6C6DTWPieEom8ihFx+EJxYc1piqJ+m8RvgvYYT\/U1oCasr7j6U8YFPLbkAJg+I0q784tUCiAtpHTkyWz\/gYUBwoCmuYh2MhUC3eSY17A8jD77ay8PzxL42So6zaOzMKn0IwdTRQpOIMlcAJ9cIGiG4EL9TRdbX6CL\/RN4VW4EufjcJ6bEq34mAnlUU7XvYRDaxWXx28WbYWJyY1SE8SlFJ9Gm\/e012PsdwvMclSgVTYdUnJ43ejSY5bxkCVVb9BDUYVH2Q1hOYGuLh2Jb9qM4X3j0NBA2NogycjNkqIENP++DBU9qa0TN5SYoYJnSZCnpMUimmP12hcBGNZWkVdJ8rjcjlM\/OReF7968jZ38gHetfEYqonij+92T3QPxh6KikPBJTmVxJWnWvjAGIlUI8cgFrYxMpQxL33ryuLvKbX6J9IJp\/dzKTTbLPR7f+Vg+jGieOMODYEaZCWN62aJHJ0bCsWPh3pLjfR6yQk4AnDFYNOVtNuFIitYOEg6H3Ols8aSGsiLTBfYMKekalsqW1uosQBdXloxouZvM5quvtIqi4IccroiAPjspIQGFuT0V3w7qJQsZa41cAQ==",
+                    "authTag": "HjqrCI59fhgD3KkJDwWDTg=="
+                },
+                "decrypted": {
+                    "status": "INITIATED",
+                    "upiIntentString": "upi:\/\/pay?pa=neo.meticulouslyit@finobank&pn=METICULOUSLY%20IT%20INNOVATIONS%20SERVICES%20PRIVATE%20LIMITED&mc=5732&tr=NKFV2uf9qeRNW7efS3ke1f3whNf&tn=test&am=100&cu=INR&mode=05&orgid=187064&catagory=01&url=https:\/\/www.finobank.com\/&sign=MEUCIG5W2tqV1DamOVRbbZN++lLtsUb0RUXi57Sg4RGRAgffAiEAgFqjIkzpVitxdSeVqNAaOu30HvmFLWWYMKn5lD+CbBc=",
+                    "amount": 100,
+                    "transactionId": "NKFV2uf9qeRNW7efS3ke1f3whNf",
+                    "orderId": "NKOcngWHx1UGuTKB75apd3bDM",
+                    "refId": "8763473633"
+                }
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-05 10:39:58",
+        "response": {
+            "request": {
+                "headers": {
+                    "Content-Type": "application\/json",
+                    "Content-Length": "80",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "Keep-Alive",
+                    "User-Agent": "Apache-HttpClient\/4.5.13 (Java\/11.0.14.1)",
+                    "Accept-Encoding": "gzip,deflate"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT_ENCODING": "gzip,deflate",
+                            "HTTP_CONNECTION": "Keep-Alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "80",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "Apache-HttpClient\/4.5.13 (Java\/11.0.14.1)",
+                            "REDIRECT_UNIQUE_ID": "Z6LypqydwAIlo-gHL7RL7gAAAek",
+                            "REDIRECT_HTTPS": "on",
+                            "REDIRECT_SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "REDIRECT_STATUS": "200",
+                            "UNIQUE_ID": "Z6LypqydwAIlo-gHL7RL7gAAAek",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "172.105.58.11",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/api\/transaction.php",
+                            "REMOTE_PORT": "34672",
+                            "REDIRECT_URL": "\/api\/transaction",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/api\/transaction",
+                            "SCRIPT_NAME": "\/api\/transaction.php",
+                            "PHP_SELF": "\/api\/transaction.php",
+                            "REQUEST_TIME_FLOAT": 1738732198.756185,
+                            "REQUEST_TIME": 1738732198
+                        }
+                    },
+                    {
+                        "amount": "100",
+                        "remark": "1111122442",
+                        "refId": "202502051200298883"
+                    }
+                ],
+                "clientIP": "172.105.58.11"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-05 10:40:37",
+        "response": {
+            "request": {
+                "headers": {
+                    "Content-Type": "application\/json",
+                    "API-Key": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                    "Content-Length": "80",
+                    "Host": "meticulouslycomputer.com",
+                    "Connection": "Keep-Alive",
+                    "User-Agent": "Apache-HttpClient\/4.5.13 (Java\/11.0.14.1)",
+                    "Cookie": "PHPSESSID=s7opil6qau0jfibqchi0flr9o2",
+                    "Accept-Encoding": "gzip,deflate"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": {
+                            "PHPSESSID": "s7opil6qau0jfibqchi0flr9o2"
+                        },
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT_ENCODING": "gzip,deflate",
+                            "HTTP_CONNECTION": "Keep-Alive",
+                            "CONTENT_TYPE": "application\/json",
+                            "CONTENT_LENGTH": "80",
+                            "HTTP_COOKIE": "PHPSESSID=s7opil6qau0jfibqchi0flr9o2",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "Apache-HttpClient\/4.5.13 (Java\/11.0.14.1)",
+                            "HTTP_API_KEY": "bcd6b7cb-d4b0-4378-ab23-4437bafb1a2d",
+                            "REDIRECT_UNIQUE_ID": "Z6LyzaydwAIlo-gHL7RMLQAAAec",
+                            "REDIRECT_HTTPS": "on",
+                            "REDIRECT_SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "REDIRECT_STATUS": "200",
+                            "UNIQUE_ID": "Z6LyzaydwAIlo-gHL7RMLQAAAec",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "172.105.58.11",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/api\/transaction.php",
+                            "REMOTE_PORT": "58524",
+                            "REDIRECT_URL": "\/api\/transaction",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "POST",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/api\/transaction",
+                            "SCRIPT_NAME": "\/api\/transaction.php",
+                            "PHP_SELF": "\/api\/transaction.php",
+                            "REQUEST_TIME_FLOAT": 1738732237.90323,
+                            "REQUEST_TIME": 1738732237
+                        }
+                    },
+                    {
+                        "amount": "100",
+                        "remark": "1111122442",
+                        "refId": "202502051200298883"
+                    }
+                ],
+                "clientIP": "172.105.58.11"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-05 10:40:38",
+        "response": {
+            "response": {
+                "bankResponse": {
+                    "statusCode": "200",
+                    "message": "INTENT generated successfully",
+                    "success": "true",
+                    "error": "",
+                    "timestamp": "Wed Feb 05 2025 05:10:38 GMT+0000 (Coordinated Universal Time)",
+                    "data": "o4CW9CPRM5BinMWKukRrVx1toyYosQwUghMbf6gglo3+1FecP90c8BHrhhJTlL2d8gLg6C6DTWPieEom8ihFx+EJxYc1piqJ+m8RvgvYYT\/U1oCasr7j6U8YFPLbkAJg+I0q784tUCiAtpHTkyWz\/gYUBwoCmuYh2MhUC3eSY17A8jD77ay8PzxL42So6zaOzMKn0IwdTRQpOIMlcAJ9cIGiG4FJ4HpuTGupGrNL90XxF8WLTsOoIJfWmAnlUQuD\/8FUOEqewm0AKovBxfQsZ4G9RrJt9OHsnmj7LVKdaQrqBW9PW2Uji6yFMN\/giGwEOZlEWtRKgF9gO56paUaKaN6YqDv6yMUP0NhgxcXB0+9ZPve9Hn4LlYk0TeyKyrVfTuXMjPkLlQi4+hd5RZBRmWsN6reNiWozHGfll42855H0mVqGKj4bi0Ox3uCO3QDKuIK9z7FoU2tyP2XynQobdS4Jwu8vk5Bfzy04\/XnLquXoTl2rgO8Qr4+fe2GJa12Ipx1g1GjQe5LdPwWOD2t7xIpAcRWPkWHDqpq0VWyFcS55uHF\/FvE7P\/QanKYDFAe4pqsKxKKq9Xy4DqZSbtUYvYvCk\/Mvd0tpv7VqmqyckvOXieyM4b9q0uuFKRtCaQHN\/mNrjR\/kMAofaotOTmNGnutEn1plLp+SDmPr",
+                    "authTag": "QCiz4KJps273A4oxR9iWrA=="
+                },
+                "decrypted": {
+                    "status": "INITIATED",
+                    "upiIntentString": "upi:\/\/pay?pa=neo.meticulouslyit@finobank&pn=METICULOUSLY%20IT%20INNOVATIONS%20SERVICES%20PRIVATE%20LIMITED&mc=5732&tr=NKFV27swBDGebpcpCznGYXnDZtH&tn=1111122442&am=100&cu=INR&mode=05&orgid=187064&catagory=01&url=https:\/\/www.finobank.com\/&sign=MEYCIQD\/IQfY9\/BZ6vmkDH7MmaUlTLEW+448KZXJM09XlzucLwIhAOvv+9ENkUkBeBuhdKIEJlrKD3l8L6UVuaAaAIOUp28Y",
+                    "amount": 100,
+                    "transactionId": "NKFV27swBDGebpcpCznGYXnDZtH",
+                    "orderId": "NKOmknLVhugA9HYULEuTPAwrF",
+                    "refId": "202502051200298883"
+                }
+            }
+        }
+    }
+]

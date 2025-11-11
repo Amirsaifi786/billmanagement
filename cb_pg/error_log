@@ -1,0 +1,28 @@
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Warning:  Undefined array key "firstname" in /home/atharvkt/public_html/cb_pg/intent.php on line 38
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/atharvkt/public_html/cb_pg/intent.php on line 38
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Warning:  Undefined array key "zipcode" in /home/atharvkt/public_html/cb_pg/intent.php on line 44
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/atharvkt/public_html/cb_pg/intent.php on line 44
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Warning:  Undefined variable $res in /home/atharvkt/public_html/cb_pg/intent.php on line 108
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/cb_pg/intent.php on line 108
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Warning:  Undefined variable $res in /home/atharvkt/public_html/cb_pg/intent.php on line 125
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/cb_pg/intent.php on line 125
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Warning:  Undefined variable $amount in /home/atharvkt/public_html/cb_pg/intent.php on line 135
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Warning:  Undefined variable $transactionId in /home/atharvkt/public_html/cb_pg/intent.php on line 135
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Warning:  Undefined variable $orderId in /home/atharvkt/public_html/cb_pg/intent.php on line 135
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Warning:  Undefined variable $refId in /home/atharvkt/public_html/cb_pg/intent.php on line 135
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Warning:  Undefined variable $upiIntend in /home/atharvkt/public_html/cb_pg/intent.php on line 144
+[05-Mar-2025 11:55:31 Asia/Kolkata] PHP Warning:  Undefined variable $amount in /home/atharvkt/public_html/cb_pg/intent.php on line 145
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Warning:  Undefined array key "firstname" in /home/atharvkt/public_html/cb_pg/intent.php on line 38
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/atharvkt/public_html/cb_pg/intent.php on line 38
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Warning:  Undefined array key "zipcode" in /home/atharvkt/public_html/cb_pg/intent.php on line 44
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Deprecated:  mysqli_real_escape_string(): Passing null to parameter #2 ($string) of type string is deprecated in /home/atharvkt/public_html/cb_pg/intent.php on line 44
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Warning:  Undefined variable $res in /home/atharvkt/public_html/cb_pg/intent.php on line 108
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/cb_pg/intent.php on line 108
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Warning:  Undefined variable $res in /home/atharvkt/public_html/cb_pg/intent.php on line 125
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on null in /home/atharvkt/public_html/cb_pg/intent.php on line 125
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Warning:  Undefined variable $amount in /home/atharvkt/public_html/cb_pg/intent.php on line 135
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Warning:  Undefined variable $transactionId in /home/atharvkt/public_html/cb_pg/intent.php on line 135
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Warning:  Undefined variable $orderId in /home/atharvkt/public_html/cb_pg/intent.php on line 135
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Warning:  Undefined variable $refId in /home/atharvkt/public_html/cb_pg/intent.php on line 135
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Warning:  Undefined variable $upiIntend in /home/atharvkt/public_html/cb_pg/intent.php on line 144
+[26-Mar-2025 02:35:43 Asia/Kolkata] PHP Warning:  Undefined variable $amount in /home/atharvkt/public_html/cb_pg/intent.php on line 145

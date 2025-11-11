@@ -1,0 +1,60 @@
+[09-Jul-2025 18:51:00 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'atharvkt_web.easebuzz' doesn't exist in /home/atharvkt/public_html/easebuzz/token.php:20
+Stack trace:
+#0 /home/atharvkt/public_html/easebuzz/token.php(20): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/easebuzz/token.php on line 20
+[17-Jul-2025 23:28:44 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'atharvkt_web.easebuzz' doesn't exist in /home/atharvkt/public_html/easebuzz/token.php:20
+Stack trace:
+#0 /home/atharvkt/public_html/easebuzz/token.php(20): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/easebuzz/token.php on line 20
+[28-Jul-2025 15:45:06 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'atharvkt_web.easebuzz' doesn't exist in /home/atharvkt/public_html/easebuzz/webhook.php:15
+Stack trace:
+#0 /home/atharvkt/public_html/easebuzz/webhook.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/easebuzz/webhook.php on line 15
+[28-Jul-2025 16:03:58 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'atharvkt_web.easebuzz' doesn't exist in /home/atharvkt/public_html/easebuzz/webhook.php:15
+Stack trace:
+#0 /home/atharvkt/public_html/easebuzz/webhook.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/easebuzz/webhook.php on line 15
+[28-Jul-2025 16:33:49 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'atharvkt_web.easebuzz' doesn't exist in /home/atharvkt/public_html/easebuzz/webhook.php:15
+Stack trace:
+#0 /home/atharvkt/public_html/easebuzz/webhook.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/easebuzz/webhook.php on line 15
+[28-Jul-2025 17:03:46 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'atharvkt_web.easebuzz' doesn't exist in /home/atharvkt/public_html/easebuzz/webhook.php:15
+Stack trace:
+#0 /home/atharvkt/public_html/easebuzz/webhook.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/easebuzz/webhook.php on line 15
+[28-Jul-2025 17:33:30 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'atharvkt_web.easebuzz' doesn't exist in /home/atharvkt/public_html/easebuzz/webhook.php:15
+Stack trace:
+#0 /home/atharvkt/public_html/easebuzz/webhook.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/easebuzz/webhook.php on line 15
+[14-Aug-2025 16:05:45 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'atharvkt_web.easebuzz' doesn't exist in /home/atharvkt/public_html/easebuzz/webhook.php:15
+Stack trace:
+#0 /home/atharvkt/public_html/easebuzz/webhook.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/easebuzz/webhook.php on line 15
+[14-Aug-2025 16:35:08 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'atharvkt_web.easebuzz' doesn't exist in /home/atharvkt/public_html/easebuzz/webhook.php:15
+Stack trace:
+#0 /home/atharvkt/public_html/easebuzz/webhook.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/easebuzz/webhook.php on line 15
+[14-Aug-2025 17:04:29 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'atharvkt_web.easebuzz' doesn't exist in /home/atharvkt/public_html/easebuzz/webhook.php:15
+Stack trace:
+#0 /home/atharvkt/public_html/easebuzz/webhook.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/easebuzz/webhook.php on line 15
+[14-Aug-2025 17:34:00 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'atharvkt_web.easebuzz' doesn't exist in /home/atharvkt/public_html/easebuzz/webhook.php:15
+Stack trace:
+#0 /home/atharvkt/public_html/easebuzz/webhook.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/easebuzz/webhook.php on line 15
+[14-Aug-2025 18:03:29 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'atharvkt_web.easebuzz' doesn't exist in /home/atharvkt/public_html/easebuzz/webhook.php:15
+Stack trace:
+#0 /home/atharvkt/public_html/easebuzz/webhook.php(15): mysqli_query()
+#1 {main}
+  thrown in /home/atharvkt/public_html/easebuzz/webhook.php on line 15

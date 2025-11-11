@@ -1,0 +1,330 @@
+[06-Jul-2024 14:07:42 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 31
+[06-Jul-2024 14:07:42 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 33
+[06-Jul-2024 19:37:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 29) in /home/healfate/public_html/payment/pay.php on line 3
+[06-Jul-2024 19:37:43 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[06-Jul-2024 19:37:43 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[06-Jul-2024 19:37:43 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[06-Jul-2024 14:21:21 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given in /home/healfate/public_html/payment/landing.php:10
+Stack trace:
+#0 /home/healfate/public_html/payment/landing.php(10): htmlspecialchars()
+#1 {main}
+  thrown in /home/healfate/public_html/payment/landing.php on line 10
+[06-Jul-2024 14:21:38 UTC] PHP Fatal error:  Uncaught TypeError: htmlspecialchars(): Argument #1 ($string) must be of type string, array given in /home/healfate/public_html/payment/landing.php:10
+Stack trace:
+#0 /home/healfate/public_html/payment/landing.php(10): htmlspecialchars()
+#1 {main}
+  thrown in /home/healfate/public_html/payment/landing.php on line 10
+[06-Jul-2024 14:22:25 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 31
+[06-Jul-2024 14:22:25 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 33
+[06-Jul-2024 19:52:25 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 29) in /home/healfate/public_html/payment/pay.php on line 3
+[06-Jul-2024 19:52:25 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[06-Jul-2024 19:52:25 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[06-Jul-2024 19:52:25 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[06-Jul-2024 14:23:49 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 31
+[06-Jul-2024 14:23:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 33
+[06-Jul-2024 14:34:29 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 31
+[06-Jul-2024 14:34:29 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 33
+[06-Jul-2024 14:36:57 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 31
+[06-Jul-2024 14:36:57 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 33
+[06-Jul-2024 20:06:57 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 29) in /home/healfate/public_html/payment/pay.php on line 3
+[06-Jul-2024 20:06:58 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[06-Jul-2024 20:06:58 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[06-Jul-2024 20:06:58 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[06-Jul-2024 14:37:08 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 31
+[06-Jul-2024 14:37:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 33
+[07-Jul-2024 12:15:18 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:15:19 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 17:45:19 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payment/pay.php on line 3
+[07-Jul-2024 17:45:20 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[07-Jul-2024 17:45:20 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[07-Jul-2024 17:45:20 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[07-Jul-2024 12:15:35 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:15:35 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 12:17:07 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:17:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 17:47:07 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payment/pay.php on line 3
+[07-Jul-2024 17:47:07 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[07-Jul-2024 17:47:07 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[07-Jul-2024 17:47:07 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[07-Jul-2024 12:18:13 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:18:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 12:24:08 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:24:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 12:30:26 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:30:26 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:00:26 Asia/Calcutta] PHP Warning:  require(razorpay-php-master/Razorpay.php): Failed to open stream: No such file or directory in /home/healfate/public_html/payment/data.php on line 3
+[07-Jul-2024 18:00:26 Asia/Calcutta] PHP Fatal error:  Uncaught Error: Failed opening required 'razorpay-php-master/Razorpay.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/healfate/public_html/payment/data.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/healfate/public_html/payment/data.php on line 3
+[07-Jul-2024 12:30:37 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:30:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 12:46:49 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:46:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:16:51 Asia/Calcutta] PHP Warning:  Undefined variable $withdraw in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 18:16:51 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 18:16:51 Asia/Calcutta] PHP Warning:  Undefined variable $userid in /home/healfate/public_html/payment/data.php on line 48
+[07-Jul-2024 18:16:51 Asia/Calcutta] PHP Warning:  Undefined variable $userid in /home/healfate/public_html/payment/data.php on line 50
+[07-Jul-2024 18:16:51 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/payment/data.php on line 51
+[07-Jul-2024 12:48:37 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:48:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:18:37 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payment/pay.php on line 3
+[07-Jul-2024 18:18:38 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[07-Jul-2024 18:18:38 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[07-Jul-2024 18:18:38 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[07-Jul-2024 12:49:21 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:49:21 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:19:22 Asia/Calcutta] PHP Warning:  Undefined variable $withdraw in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 18:19:22 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 12:50:47 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:50:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:20:47 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payment/pay.php on line 3
+[07-Jul-2024 18:20:47 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[07-Jul-2024 18:20:47 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[07-Jul-2024 18:20:47 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[07-Jul-2024 12:51:08 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:51:08 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:21:10 Asia/Calcutta] PHP Warning:  Undefined variable $withdraw in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 18:21:10 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 18:21:10 Asia/Calcutta] PHP Warning:  Undefined variable $userid in /home/healfate/public_html/payment/data.php on line 48
+[07-Jul-2024 18:21:10 Asia/Calcutta] PHP Warning:  Undefined variable $userid in /home/healfate/public_html/payment/data.php on line 50
+[07-Jul-2024 18:21:10 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/payment/data.php on line 51
+[07-Jul-2024 12:53:02 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:53:02 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:23:02 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payment/pay.php on line 3
+[07-Jul-2024 18:23:02 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[07-Jul-2024 18:23:02 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[07-Jul-2024 18:23:02 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[07-Jul-2024 12:53:17 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:53:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:23:19 Asia/Calcutta] PHP Warning:  Undefined variable $withdraw in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 18:23:19 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 18:23:19 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/payment/data.php on line 51
+[07-Jul-2024 12:55:00 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:55:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:25:00 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payment/pay.php on line 3
+[07-Jul-2024 18:25:00 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[07-Jul-2024 18:25:00 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[07-Jul-2024 18:25:00 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[07-Jul-2024 12:55:34 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:55:34 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:25:35 Asia/Calcutta] PHP Warning:  Undefined variable $withdraw in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 18:25:35 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 18:25:35 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/payment/data.php on line 51
+[07-Jul-2024 12:57:07 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:57:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:27:07 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payment/pay.php on line 3
+[07-Jul-2024 18:27:07 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[07-Jul-2024 18:27:07 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[07-Jul-2024 18:27:07 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[07-Jul-2024 12:57:17 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:57:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:27:19 Asia/Calcutta] PHP Warning:  Undefined variable $withdraw in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 18:27:19 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 18:27:19 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/payment/data.php on line 51
+[07-Jul-2024 12:58:37 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:58:37 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:28:37 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payment/pay.php on line 3
+[07-Jul-2024 18:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[07-Jul-2024 18:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[07-Jul-2024 18:28:38 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[07-Jul-2024 12:58:47 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 12:58:47 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:28:49 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/payment/data.php on line 51
+[07-Jul-2024 13:00:00 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:00:00 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:30:00 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payment/pay.php on line 3
+[07-Jul-2024 18:30:01 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[07-Jul-2024 18:30:01 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[07-Jul-2024 18:30:01 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[07-Jul-2024 13:00:12 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:00:12 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:30:13 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/healfate/public_html/payment/data.php on line 29
+[07-Jul-2024 18:30:13 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/healfate/public_html/payment/data.php on line 30
+[07-Jul-2024 18:30:13 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 18:30:13 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/healfate/public_html/payment/data.php on line 31
+[07-Jul-2024 13:03:17 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:03:17 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 13:03:54 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:03:54 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:33:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payment/pay.php on line 3
+[07-Jul-2024 18:33:55 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 100
+[07-Jul-2024 18:33:55 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payment/pay.php on line 102
+[07-Jul-2024 18:33:55 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payment/pay.php on line 109
+[07-Jul-2024 13:04:06 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:04:06 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 13:07:32 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:07:32 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:37:32 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payments/pay.php on line 3
+[07-Jul-2024 18:37:33 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 100
+[07-Jul-2024 18:37:33 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payments/pay.php on line 102
+[07-Jul-2024 18:37:33 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 109
+[07-Jul-2024 13:07:49 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:07:49 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:37:49 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payments/pay.php on line 3
+[07-Jul-2024 18:37:49 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 100
+[07-Jul-2024 18:37:49 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payments/pay.php on line 102
+[07-Jul-2024 18:37:49 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 109
+[07-Jul-2024 13:08:23 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:08:23 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:38:23 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payments/pay.php on line 3
+[07-Jul-2024 18:38:24 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 100
+[07-Jul-2024 18:38:24 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payments/pay.php on line 102
+[07-Jul-2024 18:38:24 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 109
+[07-Jul-2024 13:09:13 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:09:13 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:39:13 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payments/pay.php on line 3
+[07-Jul-2024 18:39:13 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 100
+[07-Jul-2024 18:39:13 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payments/pay.php on line 102
+[07-Jul-2024 18:39:13 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 109
+[07-Jul-2024 13:09:23 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:09:23 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 13:10:56 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:10:56 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:40:56 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payments/pay.php on line 3
+[07-Jul-2024 18:40:56 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 100
+[07-Jul-2024 18:40:56 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payments/pay.php on line 102
+[07-Jul-2024 18:40:56 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 109
+[07-Jul-2024 13:11:07 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:11:07 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 13:11:24 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:11:24 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[07-Jul-2024 18:41:24 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 35) in /home/healfate/public_html/payments/pay.php on line 3
+[07-Jul-2024 18:41:25 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 100
+[07-Jul-2024 18:41:25 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payments/pay.php on line 102
+[07-Jul-2024 18:41:25 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 109
+[07-Jul-2024 13:11:34 UTC] PHP Warning:  session_set_cookie_params(): Session cookie parameters cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 37
+[07-Jul-2024 13:11:34 UTC] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in /home/healfate/public_html/dbconnection.php on line 39
+[09-Jul-2024 11:44:24 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 39) in /home/healfate/public_html/payments/pay.php on line 3
+[09-Jul-2024 11:44:25 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 100
+[09-Jul-2024 11:44:25 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payments/pay.php on line 102
+[09-Jul-2024 11:44:25 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 109
+[09-Jul-2024 11:44:26 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 39) in /home/healfate/public_html/payments/pay.php on line 3
+[09-Jul-2024 11:44:26 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 100
+[09-Jul-2024 11:44:26 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payments/pay.php on line 102
+[09-Jul-2024 11:44:26 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 109
+[09-Jul-2024 15:03:55 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/dbconnection.php on line 39) in /home/healfate/public_html/payments/pay.php on line 3
+[09-Jul-2024 15:03:57 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 100
+[09-Jul-2024 15:03:57 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/payments/pay.php on line 102
+[09-Jul-2024 15:03:57 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/payments/pay.php on line 109
+[11-Jul-2024 12:53:58 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 39) in /home/healfate/public_html/phase2/payments/pay.php on line 3
+[11-Jul-2024 12:54:00 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'extra' in 'field list' in /home/healfate/public_html/phase2/payments/pay.php:92
+Stack trace:
+#0 /home/healfate/public_html/phase2/payments/pay.php(92): mysqli_query()
+#1 {main}
+  thrown in /home/healfate/public_html/phase2/payments/pay.php on line 92
+[12-Jul-2024 14:13:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 39) in /home/healfate/public_html/phase2/payments/pay.php on line 3
+[12-Jul-2024 14:13:23 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'extra' in 'field list' in /home/healfate/public_html/phase2/payments/pay.php:92
+Stack trace:
+#0 /home/healfate/public_html/phase2/payments/pay.php(92): mysqli_query()
+#1 {main}
+  thrown in /home/healfate/public_html/phase2/payments/pay.php on line 92
+[12-Jul-2024 14:14:04 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 39) in /home/healfate/public_html/phase2/payments/pay.php on line 3
+[12-Jul-2024 14:14:04 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'extra' in 'field list' in /home/healfate/public_html/phase2/payments/pay.php:92
+Stack trace:
+#0 /home/healfate/public_html/phase2/payments/pay.php(92): mysqli_query()
+#1 {main}
+  thrown in /home/healfate/public_html/phase2/payments/pay.php on line 92
+[12-Jul-2024 14:14:35 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 39) in /home/healfate/public_html/phase2/payments/pay.php on line 6
+[12-Jul-2024 14:14:35 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'extra' in 'field list' in /home/healfate/public_html/phase2/payments/pay.php:95
+Stack trace:
+#0 /home/healfate/public_html/phase2/payments/pay.php(95): mysqli_query()
+#1 {main}
+  thrown in /home/healfate/public_html/phase2/payments/pay.php on line 95
+[12-Jul-2024 14:17:42 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 39) in /home/healfate/public_html/phase2/payments/pay.php on line 6
+[12-Jul-2024 14:17:42 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/healfate/public_html/phase2/payments/pay.php on line 35
+[12-Jul-2024 14:17:42 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/healfate/public_html/phase2/payments/pay.php on line 36
+[12-Jul-2024 14:17:42 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/healfate/public_html/phase2/payments/pay.php on line 36
+[12-Jul-2024 14:20:45 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 39) in /home/healfate/public_html/phase2/payments/pay.php on line 6
+[12-Jul-2024 14:20:45 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/healfate/public_html/phase2/payments/pay.php on line 35
+[12-Jul-2024 14:20:45 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/healfate/public_html/phase2/payments/pay.php on line 36
+[12-Jul-2024 14:20:45 Asia/Calcutta] PHP Warning:  A non-numeric value encountered in /home/healfate/public_html/phase2/payments/pay.php on line 36
+[12-Jul-2024 14:21:21 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 39) in /home/healfate/public_html/phase2/payments/pay.php on line 6
+[12-Jul-2024 14:21:22 Asia/Calcutta] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'extra' in 'field list' in /home/healfate/public_html/phase2/payments/pay.php:95
+Stack trace:
+#0 /home/healfate/public_html/phase2/payments/pay.php(95): mysqli_query()
+#1 {main}
+  thrown in /home/healfate/public_html/phase2/payments/pay.php on line 95
+[12-Jul-2024 14:21:59 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 39) in /home/healfate/public_html/phase2/payments/pay.php on line 6
+[12-Jul-2024 14:21:59 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[12-Jul-2024 14:21:59 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 105
+[12-Jul-2024 14:21:59 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 112
+[12-Jul-2024 14:22:14 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 39) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[12-Jul-2024 14:22:15 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[12-Jul-2024 14:22:15 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[12-Jul-2024 14:22:15 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[12-Jul-2024 14:27:48 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 39) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[12-Jul-2024 14:27:48 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[12-Jul-2024 14:27:48 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[12-Jul-2024 14:27:48 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[13-Jul-2024 17:43:02 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 39) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[13-Jul-2024 17:43:04 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[13-Jul-2024 17:43:04 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[13-Jul-2024 17:43:04 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[13-Jul-2024 18:23:17 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 39) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[13-Jul-2024 18:23:18 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[13-Jul-2024 18:23:18 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[13-Jul-2024 18:23:18 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[20-Aug-2024 15:14:59 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 38) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[20-Aug-2024 15:15:00 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[20-Aug-2024 15:15:00 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[20-Aug-2024 15:15:00 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[26-Aug-2024 17:08:54 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 38) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[26-Aug-2024 17:08:57 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[26-Aug-2024 17:08:57 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[26-Aug-2024 17:08:57 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[31-Aug-2024 20:18:10 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 38) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[31-Aug-2024 20:18:11 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[31-Aug-2024 20:18:11 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[31-Aug-2024 20:18:11 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 38) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $price in /home/healfate/public_html/phase2/payments/pay.php on line 54
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/phase2/payments/pay.php on line 54
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $gstAmount in /home/healfate/public_html/phase2/payments/pay.php on line 55
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $price in /home/healfate/public_html/phase2/payments/pay.php on line 55
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined array key "id" in /home/healfate/public_html/phase2/payments/pay.php on line 90
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $price in /home/healfate/public_html/phase2/payments/pay.php on line 93
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $percentAmount in /home/healfate/public_html/phase2/payments/pay.php on line 93
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $gstAmount in /home/healfate/public_html/phase2/payments/pay.php on line 93
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $userinfo in /home/healfate/public_html/phase2/payments/pay.php on line 100
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/healfate/public_html/phase2/payments/pay.php on line 100
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $userinfo in /home/healfate/public_html/phase2/payments/pay.php on line 100
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/healfate/public_html/phase2/payments/pay.php on line 100
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $userinfo in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $userinfo in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $userinfo in /home/healfate/public_html/phase2/payments/pay.php on line 105
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/healfate/public_html/phase2/payments/pay.php on line 105
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $userinfo in /home/healfate/public_html/phase2/payments/pay.php on line 105
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/healfate/public_html/phase2/payments/pay.php on line 105
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $userinfo in /home/healfate/public_html/phase2/payments/pay.php on line 106
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/healfate/public_html/phase2/payments/pay.php on line 106
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $userinfo in /home/healfate/public_html/phase2/payments/pay.php on line 107
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/healfate/public_html/phase2/payments/pay.php on line 107
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Undefined variable $userinfo in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[31-Aug-2024 20:18:13 Asia/Calcutta] PHP Warning:  Trying to access array offset on null in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[13-Sep-2024 11:56:32 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 38) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[13-Sep-2024 11:56:33 Asia/Calcutta] PHP Warning:  Undefined array key "id" in /home/healfate/public_html/phase2/payments/pay.php on line 90
+[13-Sep-2024 11:56:33 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[13-Sep-2024 11:56:33 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[13-Sep-2024 11:56:33 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[16-Sep-2024 13:53:34 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 38) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[16-Sep-2024 13:53:35 Asia/Calcutta] PHP Warning:  Undefined array key "id" in /home/healfate/public_html/phase2/payments/pay.php on line 90
+[16-Sep-2024 13:53:35 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[16-Sep-2024 13:53:35 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[16-Sep-2024 13:53:35 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[16-Sep-2024 13:59:22 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 38) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[16-Sep-2024 13:59:22 Asia/Calcutta] PHP Warning:  Undefined array key "id" in /home/healfate/public_html/phase2/payments/pay.php on line 90
+[16-Sep-2024 13:59:22 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[16-Sep-2024 13:59:22 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[16-Sep-2024 13:59:22 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[16-Sep-2024 16:40:10 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 38) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[16-Sep-2024 16:40:11 Asia/Calcutta] PHP Warning:  Undefined array key "id" in /home/healfate/public_html/phase2/payments/pay.php on line 90
+[16-Sep-2024 16:40:11 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[16-Sep-2024 16:40:11 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[16-Sep-2024 16:40:11 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 110
+[16-Sep-2024 16:42:27 Asia/Calcutta] PHP Notice:  session_start(): Ignoring session_start() because a session is already active (started from /home/healfate/public_html/phase2/dbconnection.php on line 38) in /home/healfate/public_html/phase2/payments/pay.php on line 4
+[16-Sep-2024 16:42:28 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 101
+[16-Sep-2024 16:42:28 Asia/Calcutta] PHP Warning:  Undefined array key "profile.php" in /home/healfate/public_html/phase2/payments/pay.php on line 103
+[16-Sep-2024 16:42:28 Asia/Calcutta] PHP Warning:  Undefined array key "address" in /home/healfate/public_html/phase2/payments/pay.php on line 110

@@ -1,0 +1,126 @@
+[
+    {
+        "timestamp": "2025-02-03 13:58:42",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Host": "meticulouslycomputer.com",
+                    "Range": "bytes=0-32768",
+                    "User-Agent": "Slackbot-LinkExpanding 1.0 (+https:\/\/api.slack.com\/robots)",
+                    "Accept": "*\/*",
+                    "Accept-Encoding": "gzip,deflate",
+                    "Content-Length": "0"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "*\/*",
+                            "HTTP_ACCEPT_ENCODING": "gzip,deflate",
+                            "CONTENT_LENGTH": "0",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "Slackbot-LinkExpanding 1.0 (+https:\/\/api.slack.com\/robots)",
+                            "HTTP_RANGE": "bytes=0-32768",
+                            "UNIQUE_ID": "Z6B-Oj0qst8czbMMGJqXGwAAAJ4",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "3.224.135.72",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "46014",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "GET",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1738571322.973281,
+                            "REQUEST_TIME": 1738571322
+                        }
+                    },
+                    null
+                ],
+                "clientIP": "3.224.135.72"
+            }
+        }
+    },
+    {
+        "timestamp": "2025-02-03 13:58:43",
+        "response": {
+            "callBakRequest": {
+                "headers": {
+                    "Host": "meticulouslycomputer.com",
+                    "Range": "bytes=65536-131071",
+                    "User-Agent": "Slackbot-LinkExpanding 1.0 (+https:\/\/api.slack.com\/robots)",
+                    "Accept": "*\/*",
+                    "Content-Length": "0"
+                },
+                "request": [
+                    {
+                        "GET": [],
+                        "POST": [],
+                        "REQUEST": [],
+                        "FILES": [],
+                        "COOKIES": [],
+                        "SERVER": {
+                            "PATH": "\/usr\/local\/bin:\/usr\/bin:\/bin",
+                            "TEMP": "\/tmp",
+                            "TMP": "\/tmp",
+                            "TMPDIR": "\/tmp",
+                            "PWD": "\/",
+                            "HTTP_ACCEPT": "*\/*",
+                            "CONTENT_LENGTH": "0",
+                            "HTTP_HOST": "meticulouslycomputer.com",
+                            "HTTP_USER_AGENT": "Slackbot-LinkExpanding 1.0 (+https:\/\/api.slack.com\/robots)",
+                            "HTTP_RANGE": "bytes=65536-131071",
+                            "UNIQUE_ID": "Z6B-Oz0qst8czbMMGJqXHAAAAIg",
+                            "HTTPS": "on",
+                            "SSL_TLS_SNI": "meticulouslycomputer.com",
+                            "SERVER_SIGNATURE": "",
+                            "SERVER_SOFTWARE": "Apache\/2",
+                            "SERVER_NAME": "meticulouslycomputer.com",
+                            "SERVER_ADDR": "103.235.104.104",
+                            "SERVER_PORT": "443",
+                            "REMOTE_ADDR": "54.237.172.33",
+                            "DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "REQUEST_SCHEME": "https",
+                            "CONTEXT_PREFIX": "",
+                            "CONTEXT_DOCUMENT_ROOT": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html",
+                            "SERVER_ADMIN": "webmaster@meticulouslycomputer.com",
+                            "SCRIPT_FILENAME": "\/home\/meticulo\/domains\/meticulouslycomputer.com\/private_html\/cb_pg\/payment.php",
+                            "REMOTE_PORT": "15682",
+                            "SERVER_PROTOCOL": "HTTP\/1.1",
+                            "REQUEST_METHOD": "GET",
+                            "QUERY_STRING": "",
+                            "REQUEST_URI": "\/cb_pg\/payment.php",
+                            "SCRIPT_NAME": "\/cb_pg\/payment.php",
+                            "PHP_SELF": "\/cb_pg\/payment.php",
+                            "REQUEST_TIME_FLOAT": 1738571323.940801,
+                            "REQUEST_TIME": 1738571323
+                        }
+                    },
+                    null
+                ],
+                "clientIP": "54.237.172.33"
+            }
+        }
+    }
+]
